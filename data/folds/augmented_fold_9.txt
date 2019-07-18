@@ -1,0 +1,1080 @@
+A A#o7 Bm A E7 A E Eo7 E B7 E G#%7 E F#7 Bm G#o D E7 A D A Bm7 A E7 A F#m Eo7 F#m G#o F#m A D7 E7 A G#o D E7 A F#m E7 A E7 Am
+E E#o7 F#m E B7 E B Bo7 B F#7 B D#%7 B C#7 F#m D#o A B7 E A E F#m7 E B7 E C#m Bo7 C#m D#o C#m E A7 B7 E D#o A B7 E C#m B7 E B7 Em
+B B#o7 C#m B F#7 B F# F#o7 F# C#7 F# A#%7 F# G#7 C#m A#o E F#7 B E B C#m7 B F#7 B G#m F#o7 G#m A#o G#m B E7 F#7 B A#o E F#7 B G#m F#7 B F#7 Bm
+F# Go7 G#m F# C#7 F# C# C#o7 C# G#7 C# F%7 C# D#7 G#m Fo B C#7 F# B F# G#m7 F# C#7 F# D#m C#o7 D#m Fo D#m F# B7 C#7 F# Fo B C#7 F# D#m C#7 F# C#7 F#m
+C# Do7 D#m C# G#7 C# G# G#o7 G# D#7 G# C%7 G# A#7 D#m Co F# G#7 C# F# C# D#m7 C# G#7 C# A#m G#o7 A#m Co A#m C# F#7 G#7 C# Co F# G#7 C# A#m G#7 C# G#7 C#m
+G# Ao7 A#m G# D#7 G# D# D#o7 D# A#7 D# G%7 D# F7 A#m Go C# D#7 G# C# G# A#m7 G# D#7 G# Fm Ebo7 Fm Go Fm G# C#7 D#7 G# Go C# D#7 G# Fm D#7 G# D#7 G#m
+Eb Eo7 Fm Eb Bb7 Eb Bb A#o7 Bb F7 Bb D%7 Bb C7 Fm Do Ab Bb7 Eb Ab Eb Fm7 Eb Bb7 Eb Cm Bbo7 Cm Do Cm Eb Ab7 Bb7 Eb Do Ab Bb7 Eb Cm Bb7 Eb Bb7 Ebm
+Bb Bo7 Cm Bb F7 Bb F E#o7 F C7 F A%7 F G7 Cm Ao Eb F7 Bb Eb Bb Cm7 Bb F7 Bb Gm Fo7 Gm Ao Gm Bb Eb7 F7 Bb Ao Eb F7 Bb Gm F7 Bb F7 Bbm
+F F#o7 Gm F C7 F C B#o7 C G7 C E%7 C D7 Gm Eo Bb C7 F Bb F Gm7 F C7 F Dm Co7 Dm Eo Dm F Bb7 C7 F Eo Bb C7 F Dm C7 F C7 Fm
+C C#o7 Dm C G7 C G Go7 G D7 G B%7 G A7 Dm Bo F G7 C F C Dm7 C G7 C Am Go7 Am Bo Am C F7 G7 C Bo F G7 C Am G7 C G7 Cm
+G G#o7 Am G D7 G D Do7 D A7 D F#%7 D E7 Am F#o C D7 G C G Am7 G D7 G Em Do7 Em F#o Em G C7 D7 G F#o C D7 G Em D7 G D7 Gm
+D D#o7 Em D A7 D A Ao7 A E7 A C#%7 A B7 Em C#o G A7 D G D Em7 D A7 D Bm Ao7 Bm C#o Bm D G7 A7 D C#o G A7 D Bm A7 D A7 Dm
+C G7 C G Bo G#o E Go F C C7 F
+G D7 G D F#o D#o B Do C G G7 C
+D A7 D A C#o A#o F# Ao G D D7 G
+A E7 A E G#o E#o C# Eo D A A7 D
+E B7 E B D#o B#o G# Bo A E E7 A
+B F#7 B F# A#o Go D# F#o E B B7 E
+F# C#7 F# C# Fo Do A# C#o B F# F#7 B
+Db Ab7 Db Ab Co Ao F G#o Gb Db Db7 Gb
+Ab Eb7 Ab Eb Go Eo C D#o Db Ab Ab7 Db
+Eb Bb7 Eb Bb Do Bo G A#o Ab Eb Eb7 Ab
+Bb F7 Bb F Ao F#o D E#o Eb Bb Bb7 Eb
+F C7 F C Eo C#o A B#o Bb F F7 Bb
+A7 Dm G
+E7 Am D
+B7 Em A
+F#7 Bm E
+C#7 F#m B
+G#7 C#m F#
+Eb7 Abm Db
+Bb7 Ebm Ab
+F7 Bbm Eb
+C7 Fm Bb
+G7 Cm F
+D7 Gm C
+Bo C G7 Bo C G7 G#o7 Am Em EGer6 B Em D#o7 B B7 Em C G
+F#o G D7 F#o G D7 D#o7 Em Bm BGer6 F# Bm A#o7 F# F#7 Bm G D
+C#o D A7 C#o D A7 A#o7 Bm F#m F#Ger6 C# F#m E#o7 C# C#7 F#m D A
+G#o A E7 G#o A E7 E#o7 F#m C#m C#Ger6 G# C#m B#o7 G# G#7 C#m A E
+D#o E B7 D#o E B7 B#o7 C#m G#m G#Ger6 D# G#m Go7 D# D#7 G#m E B
+A#o B F#7 A#o B F#7 Go7 G#m D#m D#Ger6 A# D#m Do7 A# A#7 D#m B F#
+Fo F# C#7 Fo F# C#7 Do7 D#m A#m A#Ger6 F A#m Ao7 F F7 A#m F# C#
+Co Db Ab7 Co Db Ab7 Ao7 Bbm Fm FGer6 C Fm Eo7 C C7 Fm Db Ab
+Go Ab Eb7 Go Ab Eb7 Eo7 Fm Cm CGer6 G Cm Bo7 G G7 Cm Ab Eb
+Do Eb Bb7 Do Eb Bb7 Bo7 Cm Gm GGer6 D Gm F#o7 D D7 Gm Eb Bb
+Ao Bb F7 Ao Bb F7 F#o7 Gm Dm DGer6 A Dm C#o7 A A7 Dm Bb F
+Eo F C7 Eo F C7 C#o7 Dm Am AGer6 E Am G#o7 E E7 Am F C
+C7 F Dm Bb Gm F Gm C F D7 C G C Dm G C Am Dm Gm C F Bb C F D7 C G C G7 G C
+G7 C Am F Dm C Dm G C A7 G D G Am D G Em Am Dm G C F G C A7 G D G D7 D G
+D7 G Em C Am G Am D G E7 D A D Em A D Bm Em Am D G C D G E7 D A D A7 A D
+A7 D Bm G Em D Em A D B7 A E A Bm E A F#m Bm Em A D G A D B7 A E A E7 E A
+E7 A F#m D Bm A Bm E A F#7 E B E F#m B E C#m F#m Bm E A D E A F#7 E B E B7 B E
+B7 E C#m A F#m E F#m B E C#7 B F# B C#m F# B G#m C#m F#m B E A B E C#7 B F# B F#7 F# B
+F#7 B G#m E C#m B C#m F# B G#7 F# C# F# G#m C# F# D#m G#m C#m F# B E F# B G#7 F# C# F# C#7 C# F#
+Db7 Gb Ebm B Abm Gb Abm Db Gb Eb7 Db Ab Db Ebm Ab Db Bbm Ebm Abm Db Gb B Db Gb Eb7 Db Ab Db Ab7 Ab Db
+Ab7 Db Bbm Gb Ebm Db Ebm Ab Db Bb7 Ab Eb Ab Bbm Eb Ab Fm Bbm Ebm Ab Db Gb Ab Db Bb7 Ab Eb Ab Eb7 Eb Ab
+Eb7 Ab Fm Db Bbm Ab Bbm Eb Ab F7 Eb Bb Eb Fm Bb Eb Cm Fm Bbm Eb Ab Db Eb Ab F7 Eb Bb Eb Bb7 Bb Eb
+Bb7 Eb Cm Ab Fm Eb Fm Bb Eb C7 Bb F Bb Cm F Bb Gm Cm Fm Bb Eb Ab Bb Eb C7 Bb F Bb F7 F Bb
+F7 Bb Gm Eb Cm Bb Cm F Bb G7 F C F Gm C F Dm Gm Cm F Bb Eb F Bb G7 F C F C7 C F
+Am E Am Dm A7 Dm Bo E7 Am
+Em B Em Am E7 Am F#o B7 Em
+Bm F# Bm Em B7 Em C#o F#7 Bm
+F#m C# F#m Bm F#7 Bm G#o C#7 F#m
+C#m G# C#m F#m C#7 F#m D#o G#7 C#m
+G#m D# G#m C#m G#7 C#m A#o D#7 G#m
+Ebm Bb Ebm Abm Eb7 Abm Fo Bb7 Ebm
+Bbm F Bbm Ebm Bb7 Ebm Co F7 Bbm
+Fm C Fm Bbm F7 Bbm Go C7 Fm
+Cm G Cm Fm C7 Fm Do G7 Cm
+Gm D Gm Cm G7 Cm Ao D7 Gm
+Dm A Dm Gm D7 Gm Eo A7 Dm
+C G7 Am7 G7 C G D7 G G7
+G D7 Em7 D7 G D A7 D D7
+D A7 Bm7 A7 D A E7 A A7
+A E7 F#m7 E7 A E B7 E E7
+E B7 C#m7 B7 E B F#7 B B7
+B F#7 G#m7 F#7 B F# C#7 F# F#7
+F# C#7 D#m7 C#7 F# C# G#7 C# C#7
+Db Ab7 Bbm7 Ab7 Db Ab Eb7 Ab Ab7
+Ab Eb7 Fm7 Eb7 Ab Eb Bb7 Eb Eb7
+Eb Bb7 Cm7 Bb7 Eb Bb F7 Bb Bb7
+Bb F7 Gm7 F7 Bb F C7 F F7
+F C7 Dm7 C7 F C G7 C C7
+G7 C G G7 C
+D7 G D D7 G
+A7 D A A7 D
+E7 A E E7 A
+B7 E B B7 E
+F#7 B F# F#7 B
+C#7 F# C# C#7 F#
+Ab7 Db Ab Ab7 Db
+Eb7 Ab Eb Eb7 Ab
+Bb7 Eb Bb Bb7 Eb
+F7 Bb F F7 Bb
+C7 F C C7 F
+Gm Cm D Gm Eb A%7 D7 Gm
+Dm Gm A Dm Bb E%7 A7 Dm
+Am Dm E Am F B%7 E7 Am
+Em Am B Em C F#%7 B7 Em
+Bm Em F# Bm G C#%7 F#7 Bm
+F#m Bm C# F#m D G#%7 C#7 F#m
+C#m F#m G# C#m A D#%7 G#7 C#m
+Abm Dbm Eb Abm E Bb%7 Eb7 Abm
+Ebm Abm Bb Ebm B F%7 Bb7 Ebm
+Bbm Ebm F Bbm Gb C%7 F7 Bbm
+Fm Bbm C Fm Db G%7 C7 Fm
+Cm Fm G Cm Ab D%7 G7 Cm
+C7 G C G%7 G Am Cm Go D Bo7 C G%7 G Go7 Bo C
+G7 D G D%7 D Em Gm Do A F#o7 G D%7 D Do7 F#o G
+D7 A D A%7 A Bm Dm Ao E C#o7 D A%7 A Ao7 C#o D
+A7 E A E%7 E F#m Am Eo B G#o7 A E%7 E Eo7 G#o A
+E7 B E B%7 B C#m Em Bo F# D#o7 E B%7 B Bo7 D#o E
+B7 F# B F#%7 F# G#m Bm F#o C# A#o7 B F#%7 F# F#o7 A#o B
+F#7 C# F# C#%7 C# D#m F#m C#o G# Fo7 F# C#%7 C# C#o7 Fo F#
+Db7 Ab Db G#%7 Ab Bbm Dbm G#o Eb Co7 Db G#%7 Ab G#o7 Co Db
+Ab7 Eb Ab D#%7 Eb Fm Abm D#o Bb Go7 Ab D#%7 Eb D#o7 Go Ab
+Eb7 Bb Eb A#%7 Bb Cm Ebm A#o F Do7 Eb A#%7 Bb A#o7 Do Eb
+Bb7 F Bb E#%7 F Gm Bbm E#o C Ao7 Bb E#%7 F E#o7 Ao Bb
+F7 C F B#%7 C Dm Fm B#o G Eo7 F B#%7 C B#o7 Eo F
+Eb Ab Bb Eb Cm Eb Ab Fm Fm7 Bb7 Cm7 Bb7 Eb G F G Cm Cm7 Ab Fm Fm7 Do G7 G F G Cm D7 Gm Eb Cm D7 G7 C7 F7 Bb7 Eb7 Ab G Dm Do Go7 G
+Bb Eb F Bb Gm Bb Eb Cm Cm7 F7 Gm7 F7 Bb D C D Gm Gm7 Eb Cm Cm7 Ao D7 D C D Gm A7 Dm Bb Gm A7 D7 G7 C7 F7 Bb7 Eb D Am Ao Do7 D
+F Bb C F Dm F Bb Gm Gm7 C7 Dm7 C7 F A G A Dm Dm7 Bb Gm Gm7 Eo A7 A G A Dm E7 Am F Dm E7 A7 D7 G7 C7 F7 Bb A Em Eo Ao7 A
+C F G C Am C F Dm Dm7 G7 Am7 G7 C E D E Am Am7 F Dm Dm7 Bo E7 E D E Am B7 Em C Am B7 E7 A7 D7 G7 C7 F E Bm Bo Eo7 E
+G C D G Em G C Am Am7 D7 Em7 D7 G B A B Em Em7 C Am Am7 F#o B7 B A B Em F#7 Bm G Em F#7 B7 E7 A7 D7 G7 C B F#m F#o Bo7 B
+D G A D Bm D G Em Em7 A7 Bm7 A7 D F# E F# Bm Bm7 G Em Em7 C#o F#7 F# E F# Bm C#7 F#m D Bm C#7 F#7 B7 E7 A7 D7 G F# C#m C#o F#o7 F#
+A D E A F#m A D Bm Bm7 E7 F#m7 E7 A C# B C# F#m F#m7 D Bm Bm7 G#o C#7 C# B C# F#m G#7 C#m A F#m G#7 C#7 F#7 Cb7 Fb7 A7 D C# G#m G#o C#o7 C#
+Fb A Cb Fb Dbm Fb A Gbm Gbm7 Cb7 Dbm7 Cb7 Fb Ab Gb Ab Dbm Dbm7 A Gbm Gbm7 Ebo Ab7 Ab Gb Ab Dbm Eb7 Abm E Dbm Eb7 Ab7 Db7 Gb7 Cb7 Fb7 A Ab Ebm Ebo G#o7 Ab
+Cb Fb Gb Cb Abm Cb Fb Dbm Dbm7 Gb7 Abm7 Gb7 Cb Eb Db Eb Abm Abm7 Fb Dbm Dbm7 Bbo Eb7 Eb Db Eb Abm Bb7 Ebm B Abm Bb7 Eb7 Ab7 Db7 Gb7 Cb7 Fb Eb Bbm Bbo D#o7 Eb
+Gb B Db Gb Ebm Gb B Abm Abm7 Db7 Ebm7 Db7 Gb Bb Ab Bb Ebm Ebm7 B Abm Abm7 Fo Bb7 Bb Ab Bb Ebm F7 Bbm Gb Ebm F7 Bb7 Eb7 Ab7 Db7 Gb7 Cb Bb Fm Fo A#o7 Bb
+Db Gb Ab Db Bbm Db Gb Ebm Ebm7 Ab7 Bbm7 Ab7 Db F Eb F Bbm Bbm7 Gb Ebm Ebm7 Co F7 F Eb F Bbm C7 Fm Db Bbm C7 F7 Bb7 Eb7 Ab7 Db7 Gb F Cm Co E#o7 F
+Ab Db Eb Ab Fm Ab Db Bbm Bbm7 Eb7 Fm7 Eb7 Ab C Bb C Fm Fm7 Db Bbm Bbm7 Go C7 C Bb C Fm G7 Cm Ab Fm G7 C7 F7 Bb7 Eb7 Ab7 Db C Gm Go B#o7 C
+Bbm Eb Eb7 Ab Eb Fm Go7 Ab C7 Fm Bb Eb Fm Eb Ab Bbm Eb7 C Fm Bb Eb Ab D#o G C Fm Db Go Ab Go Bb7 Eb EbM7 Eb7 Fm7 Cm7 AbM7 Eb Fm7 Eb Bb Eb7 Eb Ab Db Ab Go Ab Eb7 Ab
+Fm Bb Bb7 Eb Bb Cm Do7 Eb G7 Cm F Bb Cm Bb Eb Fm Bb7 G Cm F Bb Eb A#o D G Cm Ab Do Eb Do F7 Bb BbM7 Bb7 Cm7 Gm7 EbM7 Bb Cm7 Bb F Bb7 Bb Eb Ab Eb Do Eb Bb7 Eb
+Cm F F7 Bb F Gm Ao7 Bb D7 Gm C F Gm F Bb Cm F7 D Gm C F Bb E#o A D Gm Eb Ao Bb Ao C7 F FM7 F7 Gm7 Dm7 BbM7 F Gm7 F C F7 F Bb Eb Bb Ao Bb F7 Bb
+Gm C C7 F C Dm Eo7 F A7 Dm G C Dm C F Gm C7 A Dm G C F B#o E A Dm Bb Eo F Eo G7 C CM7 C7 Dm7 Am7 FM7 C Dm7 C G C7 C F Bb F Eo F C7 F
+Dm G G7 C G Am Bo7 C E7 Am D G Am G C Dm G7 E Am D G C Go B E Am F Bo C Bo D7 G GM7 G7 Am7 Em7 CM7 G Am7 G D G7 G C F C Bo C G7 C
+Am D D7 G D Em F#o7 G B7 Em A D Em D G Am D7 B Em A D G Do F# B Em C F#o G F#o A7 D DM7 D7 Em7 Bm7 GM7 D Em7 D A D7 D G C G F#o G D7 G
+Em A A7 D A Bm C#o7 D F#7 Bm E A Bm A D Em A7 F# Bm E A D Ao C# F# Bm G C#o D C#o E7 A AM7 A7 Bm7 F#m7 DM7 A Bm7 A E A7 A D G D C#o D A7 D
+Bm E E7 A E F#m G#o7 A C#7 F#m B E F#m E A Bm E7 C# F#m B E A Eo G# C# F#m D G#o A G#o B7 E EM7 E7 F#m7 C#m7 AM7 E F#m7 E B E7 E A D A G#o A E7 A
+Gbm Cb Cb7 Fb Cb Dbm Ebo7 Fb Ab7 Dbm Gb Cb Dbm Cb Fb Gbm Cb7 Ab Dbm Gb Cb Fb Cbo Eb Ab Dbm A Ebo Fb Ebo Gb7 Cb CbM7 Cb7 Dbm7 Abm7 FbM7 Cb Dbm7 Cb Gb Cb7 Cb Fb A Fb Ebo Fb Cb7 Fb
+Dbm Gb Gb7 Cb Gb Abm Bbo7 Cb Eb7 Abm Db Gb Abm Gb Cb Dbm Gb7 Eb Abm Db Gb Cb F#o Bb Eb Abm Fb Bbo Cb Bbo Db7 Gb GbM7 Gb7 Abm7 Ebm7 CbM7 Gb Abm7 Gb Db Gb7 Gb Cb Fb Cb Bbo Cb Gb7 Cb
+Abm Db Db7 Gb Db Ebm Fo7 Gb Bb7 Ebm Ab Db Ebm Db Gb Abm Db7 Bb Ebm Ab Db Gb C#o F Bb Ebm B Fo Gb Fo Ab7 Db DbM7 Db7 Ebm7 Bbm7 GbM7 Db Ebm7 Db Ab Db7 Db Gb B Gb Fo Gb Db7 Gb
+Ebm Ab Ab7 Db Ab Bbm Co7 Db F7 Bbm Eb Ab Bbm Ab Db Ebm Ab7 F Bbm Eb Ab Db G#o C F Bbm Gb Co Db Co Eb7 Ab AbM7 Ab7 Bbm7 Fm7 DbM7 Ab Bbm7 Ab Eb Ab7 Ab Db Gb Db Co Db Ab7 Db
+G7 Am C7 F Bo C G7 C Go G7 C F D7 G Go7 Cm Go7 Bo7 C G7 Bo7 C Am F Dm G D G7 C A Dm
+D7 Em G7 C F#o G D7 G Do D7 G C A7 D Do7 Gm Do7 F#o7 G D7 F#o7 G Em C Am D A D7 G E Am
+A7 Bm D7 G C#o D A7 D Ao A7 D G E7 A Ao7 Dm Ao7 C#o7 D A7 C#o7 D Bm G Em A E A7 D B Em
+E7 F#m A7 D G#o A E7 A Eo E7 A D B7 E Eo7 Am Eo7 G#o7 A E7 G#o7 A F#m D Bm E B E7 A F# Bm
+B7 C#m E7 A D#o E B7 E Bo B7 E A F#7 B Bo7 Em Bo7 D#o7 E B7 D#o7 E C#m A F#m B F# B7 E C# F#m
+F#7 G#m B7 E A#o B F#7 B F#o F#7 B E C#7 F# F#o7 Bm F#o7 A#o7 B F#7 A#o7 B G#m E C#m F# C# F#7 B G# C#m
+C#7 D#m F#7 B Fo F# C#7 F# C#o C#7 F# B G#7 C# C#o7 F#m C#o7 Fo7 F# C#7 Fo7 F# D#m B G#m C# G# C#7 F# D# G#m
+Ab7 Bbm Db7 Gb Co Db Ab7 Db G#o Ab7 Db Gb Eb7 Ab G#o7 Dbm G#o7 Co7 Db Ab7 Co7 Db Bbm Gb Ebm Ab Eb Ab7 Db Bb Ebm
+Eb7 Fm Ab7 Db Go Ab Eb7 Ab D#o Eb7 Ab Db Bb7 Eb D#o7 Abm D#o7 Go7 Ab Eb7 Go7 Ab Fm Db Bbm Eb Bb Eb7 Ab F Bbm
+Bb7 Cm Eb7 Ab Do Eb Bb7 Eb A#o Bb7 Eb Ab F7 Bb A#o7 Ebm A#o7 Do7 Eb Bb7 Do7 Eb Cm Ab Fm Bb F Bb7 Eb C Fm
+F7 Gm Bb7 Eb Ao Bb F7 Bb E#o F7 Bb Eb C7 F E#o7 Bbm E#o7 Ao7 Bb F7 Ao7 Bb Gm Eb Cm F C F7 Bb G Cm
+C7 Dm F7 Bb Eo F C7 F B#o C7 F Bb G7 C B#o7 Fm B#o7 Eo7 F C7 Eo7 F Dm Bb Gm C G C7 F D Gm
+Ab Fm Db Bbm7 Eb7 Ab
+Eb Cm Ab Fm7 Bb7 Eb
+Bb Gm Eb Cm7 F7 Bb
+F Dm Bb Gm7 C7 F
+C Am F Dm7 G7 C
+G Em C Am7 D7 G
+D Bm G Em7 A7 D
+A F#m D Bm7 E7 A
+Fb Dbm A Gbm7 Cb7 Fb
+Cb Abm Fb Dbm7 Gb7 Cb
+Gb Ebm B Abm7 Db7 Gb
+Db Bbm Gb Ebm7 Ab7 Db
+C F Go7 G G#o7 Am Go7 Bo Bo7 C#o7 D Do Dm G7 C
+G C Do7 D D#o7 Em Do7 F#o F#o7 G#o7 A Ao Am D7 G
+D G Ao7 A A#o7 Bm Ao7 C#o C#o7 D#o7 E Eo Em A7 D
+A D Eo7 E E#o7 F#m Eo7 G#o G#o7 A#o7 B Bo Bm E7 A
+E A Bo7 B B#o7 C#m Bo7 D#o D#o7 E#o7 F# F#o F#m B7 E
+B E F#o7 F# Go7 G#m F#o7 A#o A#o7 B#o7 C# C#o C#m F#7 B
+F# B C#o7 C# Do7 D#m C#o7 Fo Fo7 Go7 G# G#o G#m C#7 F#
+Db Gb G#o7 Ab Ao7 Bbm G#o7 Co Co7 Do7 Eb Ebo Ebm Ab7 Db
+Ab Db D#o7 Eb Eo7 Fm D#o7 Go Go7 Ao7 Bb Bbo Bbm Eb7 Ab
+Eb Ab A#o7 Bb Bo7 Cm A#o7 Do Do7 Eo7 F Fo Fm Bb7 Eb
+Bb Eb E#o7 F F#o7 Gm E#o7 Ao Ao7 Bo7 C Co Cm F7 Bb
+F Bb B#o7 C C#o7 Dm B#o7 Eo Eo7 F#o7 G Go Gm C7 F
+F B%7 E Am
+C F#%7 B Em
+G C#%7 F# Bm
+D G#%7 C# F#m
+A D#%7 G# C#m
+E A#%7 D# G#m
+B F%7 Bb Ebm
+Gb C%7 F Bbm
+Db G%7 C Fm
+Ab D%7 G Cm
+Eb A%7 D Gm
+Bb E%7 A Dm
+C G7 C G C Gm Dm Am E F E7 AGer6 E
+G D7 G D G Dm Am Em B C B7 EGer6 B
+D A7 D A D Am Em Bm F# G F#7 BGer6 F#
+A E7 A E A Em Bm F#m C# D C#7 F#Ger6 C#
+E B7 E B E Bm F#m C#m G# A G#7 C#Ger6 G#
+B F#7 B F# B F#m C#m G#m D# E D#7 G#Ger6 D#
+F# C#7 F# C# F# C#m G#m D#m A# B A#7 D#Ger6 A#
+Db Ab7 Db Ab Db Abm Ebm Bbm F Gb F7 BbGer6 F
+Ab Eb7 Ab Eb Ab Ebm Bbm Fm C Db C7 FGer6 C
+Eb Bb7 Eb Bb Eb Bbm Fm Cm G Ab G7 CGer6 G
+Bb F7 Bb F Bb Fm Cm Gm D Eb D7 GGer6 D
+F C7 F C F Cm Gm Dm A Bb A7 DGer6 A
+D G D7 G Am7 G Am D7 G E7 Am G7 C D7 G C G Am7 D7 G
+A D A7 D Em7 D Em A7 D B7 Em D7 G A7 D G D Em7 A7 D
+E A E7 A Bm7 A Bm E7 A F#7 Bm A7 D E7 A D A Bm7 E7 A
+B E B7 E F#m7 E F#m B7 E C#7 F#m E7 A B7 E A E F#m7 B7 E
+F# B F#7 B C#m7 B C#m F#7 B G#7 C#m B7 E F#7 B E B C#m7 F#7 B
+C# F# C#7 F# G#m7 F# G#m C#7 F# D#7 G#m F#7 B C#7 F# B F# G#m7 C#7 F#
+G# C# G#7 C# D#m7 C# D#m G#7 C# A#7 D#m C#7 F# G#7 C# F# C# D#m7 G#7 C#
+Eb Ab Eb7 Ab Bbm7 Ab Bbm Eb7 Ab F7 Bbm Ab7 Db Eb7 Ab Db Ab Bbm7 Eb7 Ab
+Bb Eb Bb7 Eb Fm7 Eb Fm Bb7 Eb C7 Fm Eb7 Ab Bb7 Eb Ab Eb Fm7 Bb7 Eb
+F Bb F7 Bb Cm7 Bb Cm F7 Bb G7 Cm Bb7 Eb F7 Bb Eb Bb Cm7 F7 Bb
+C F C7 F Gm7 F Gm C7 F D7 Gm F7 Bb C7 F Bb F Gm7 C7 F
+G C G7 C Dm7 C Dm G7 C A7 Dm C7 F G7 C F C Dm7 G7 C
+C G7 C G C G7 C G Gm A7 Dm G7 C F C7 F C Cm D7 Gm C7 F A7 Dm G7 C G7 Dm G7 C G7 Ab D7 G7 C
+G D7 G D G D7 G D Dm E7 Am D7 G C G7 C G Gm A7 Dm G7 C E7 Am D7 G D7 Am D7 G D7 Eb A7 D7 G
+D A7 D A D A7 D A Am B7 Em A7 D G D7 G D Dm E7 Am D7 G B7 Em A7 D A7 Em A7 D A7 Bb E7 A7 D
+A E7 A E A E7 A E Em F#7 Bm E7 A D A7 D A Am B7 Em A7 D F#7 Bm E7 A E7 Bm E7 A E7 F B7 E7 A
+E B7 E B E B7 E B Bm C#7 F#m B7 E A E7 A E Em F#7 Bm E7 A C#7 F#m B7 E B7 F#m B7 E B7 C F#7 B7 E
+B F#7 B F# B F#7 B F# F#m G#7 C#m F#7 B E B7 E B Bm C#7 F#m B7 E G#7 C#m F#7 B F#7 C#m F#7 B F#7 G C#7 F#7 B
+F# C#7 F# C# F# C#7 F# C# C#m D#7 G#m C#7 F# B F#7 B F# F#m G#7 C#m F#7 B D#7 G#m C#7 F# C#7 G#m C#7 F# C#7 D G#7 C#7 F#
+Db Ab7 Db Ab Db Ab7 Db Ab Abm Bb7 Ebm Ab7 Db Gb Db7 Gb Db Dbm Eb7 Abm Db7 Gb Bb7 Ebm Ab7 Db Ab7 Ebm Ab7 Db Ab7 A Eb7 Ab7 Db
+Ab Eb7 Ab Eb Ab Eb7 Ab Eb Ebm F7 Bbm Eb7 Ab Db Ab7 Db Ab Abm Bb7 Ebm Ab7 Db F7 Bbm Eb7 Ab Eb7 Bbm Eb7 Ab Eb7 Fb Bb7 Eb7 Ab
+Eb Bb7 Eb Bb Eb Bb7 Eb Bb Bbm C7 Fm Bb7 Eb Ab Eb7 Ab Eb Ebm F7 Bbm Eb7 Ab C7 Fm Bb7 Eb Bb7 Fm Bb7 Eb Bb7 Cb F7 Bb7 Eb
+Bb F7 Bb F Bb F7 Bb F Fm G7 Cm F7 Bb Eb Bb7 Eb Bb Bbm C7 Fm Bb7 Eb G7 Cm F7 Bb F7 Cm F7 Bb F7 Gb C7 F7 Bb
+F C7 F C F C7 F C Cm D7 Gm C7 F Bb F7 Bb F Fm G7 Cm F7 Bb D7 Gm C7 F C7 Gm C7 F C7 Db G7 C7 F
+D7 G D Gm D7 C GGer6 D
+A7 D A Dm A7 G DGer6 A
+E7 A E Am E7 D AGer6 E
+B7 E B Em B7 A EGer6 B
+F#7 B F# Bm F#7 E BGer6 F#
+C#7 F# C# F#m C#7 B F#Ger6 C#
+G#7 C# G# C#m G#7 F# C#Ger6 G#
+Eb7 Ab Eb Abm Eb7 Db AbGer6 Eb
+Bb7 Eb Bb Ebm Bb7 Ab EbGer6 Bb
+F7 Bb F Bbm F7 Eb BbGer6 F
+C7 F C Fm C7 Bb FGer6 C
+G7 C G Cm G7 F CGer6 G
+Am C7 F Gm F Bb F Eo F FM7 Dm7 E E7 Am G#o Am Dm C#o Dm Bo E7 Am
+Em G7 C Dm C F C Bo C CM7 Am7 B B7 Em D#o Em Am G#o Am F#o B7 Em
+Bm D7 G Am G C G F#o G GM7 Em7 F# F#7 Bm A#o Bm Em D#o Em C#o F#7 Bm
+F#m A7 D Em D G D C#o D DM7 Bm7 C# C#7 F#m E#o F#m Bm A#o Bm G#o C#7 F#m
+C#m E7 A Bm A D A G#o A AM7 F#m7 G# G#7 C#m B#o C#m F#m E#o F#m D#o G#7 C#m
+G#m B7 E F#m E A E D#o E EM7 C#m7 D# D#7 G#m Go G#m C#m B#o C#m A#o D#7 G#m
+D#m F#7 B C#m B E B A#o B BM7 Abm7 Bb Bb7 Ebm Do Ebm Abm Go Abm Fo Bb7 Ebm
+Bbm Db7 Gb Abm Gb B Gb Fo Gb GbM7 Ebm7 F F7 Bbm Ao Bbm Ebm Do Ebm Co F7 Bbm
+Fm Ab7 Db Ebm Db Gb Db Co Db DbM7 Bbm7 C C7 Fm Eo Fm Bbm Ao Bbm Go C7 Fm
+Cm Eb7 Ab Bbm Ab Db Ab Go Ab AbM7 Fm7 G G7 Cm Bo Cm Fm Eo Fm Do G7 Cm
+Gm Bb7 Eb Fm Eb Ab Eb Do Eb EbM7 Cm7 D D7 Gm F#o Gm Cm Bo Cm Ao D7 Gm
+Dm F7 Bb Cm Bb Eb Bb Ao Bb BbM7 Gm7 A A7 Dm C#o Dm Gm F#o Gm Eo A7 Dm
+C G C G7 Am7 G C G Go G C G7 Am7 G C G Am7 G
+G D G D7 Em7 D G D Do D G D7 Em7 D G D Em7 D
+D A D A7 Bm7 A D A Ao A D A7 Bm7 A D A Bm7 A
+A E A E7 F#m7 E A E Eo E A E7 F#m7 E A E F#m7 E
+E B E B7 C#m7 B E B Bo B E B7 C#m7 B E B C#m7 B
+B F# B F#7 G#m7 F# B F# F#o F# B F#7 G#m7 F# B F# G#m7 F#
+F# C# F# C#7 D#m7 C# F# C# C#o C# F# C#7 D#m7 C# F# C# D#m7 C#
+Db Ab Db Ab7 Bbm7 Ab Db Ab G#o Ab Db Ab7 Bbm7 Ab Db Ab Bbm7 Ab
+Ab Eb Ab Eb7 Fm7 Eb Ab Eb D#o Eb Ab Eb7 Fm7 Eb Ab Eb Fm7 Eb
+Eb Bb Eb Bb7 Cm7 Bb Eb Bb A#o Bb Eb Bb7 Cm7 Bb Eb Bb Cm7 Bb
+Bb F Bb F7 Gm7 F Bb F E#o F Bb F7 Gm7 F Bb F Gm7 F
+F C F C7 Dm7 C F C B#o C F C7 Dm7 C F C Dm7 C
+G Cm Go G Cm Go G7 Bbo7 G7
+D Gm Do D Gm Do D7 Fo7 D7
+A Dm Ao A Dm Ao A7 Co7 A7
+E Am Eo E Am Eo E7 Go7 E7
+B Em Bo B Em Bo B7 Do7 B7
+F# Bm F#o F# Bm F#o F#7 Ao7 F#7
+C# F#m C#o C# F#m C#o C#7 Eo7 C#7
+Ab Dbm G#o Ab Dbm G#o Ab7 Bo7 Ab7
+Eb Abm D#o Eb Abm D#o Eb7 Gbo7 Eb7
+Bb Ebm A#o Bb Ebm A#o Bb7 Dbo7 Bb7
+F Bbm E#o F Bbm E#o F7 Abo7 F7
+C Fm B#o C Fm B#o C7 Ebo7 C7
+F C G C7 Am Ebo7 C7 Fm G7 G%7 Ebo7 Fm G Eo7 Eo Fm Bb7 Eb Bo7 G7 C G G7 C G G7 C F Dm Do G7 C D F#m7 G7 C Go G7 C7 F CGer6 Gm G G7 Dm7 C7 F CGer6 Gm G G7 C F#o7 Bo7 C F#o G7 C
+C G D G7 Em Bbo7 G7 Cm D7 D%7 Bbo7 Cm D Bo7 Bo Cm F7 Bb F#o7 D7 G D D7 G D D7 G C Am Ao D7 G A C#m7 D7 G Do D7 G7 C GGer6 Dm D D7 Am7 G7 C GGer6 Dm D D7 G C#o7 F#o7 G C#o D7 G
+G D A D7 Bm Fo7 D7 Gm A7 A%7 Fo7 Gm A F#o7 F#o Gm C7 F C#o7 A7 D A A7 D A A7 D G Em Eo A7 D E G#m7 A7 D Ao A7 D7 G DGer6 Am A A7 Em7 D7 G DGer6 Am A A7 D G#o7 C#o7 D G#o A7 D
+D A E A7 F#m Co7 A7 Dm E7 E%7 Co7 Dm E C#o7 C#o Dm G7 C G#o7 E7 A E E7 A E E7 A D Bm Bo E7 A B D#m7 E7 A Eo E7 A7 D AGer6 Em E E7 Bm7 A7 D AGer6 Em E E7 A D#o7 G#o7 A D#o E7 A
+A E B E7 C#m Go7 E7 Am B7 B%7 Go7 Am B G#o7 G#o Am D7 G D#o7 B7 E B B7 E B B7 E A F#m F#o B7 E F# A#m7 B7 E Bo B7 E7 A EGer6 Bm B B7 F#m7 E7 A EGer6 Bm B B7 E A#o7 D#o7 E A#o B7 E
+E B F# B7 G#m Do7 B7 Em F#7 F#%7 Do7 Em F# D#o7 D#o Em A7 D A#o7 F#7 B F# F#7 B F# F#7 B E C#m C#o F#7 B C# Fm7 F#7 B F#o F#7 B7 E BGer6 F#m F# F#7 C#m7 B7 E BGer6 F#m F# F#7 B Fo7 A#o7 B Fo F#7 B
+B F# C# F#7 D#m Ao7 F#7 Bm C#7 C#%7 Ao7 Bm C# A#o7 A#o Bm E7 A Fo7 C#7 F# C# C#7 F# C# C#7 F# B G#m G#o C#7 F# G# Cm7 C#7 F# C#o C#7 F#7 B F#Ger6 C#m C# C#7 G#m7 F#7 B F#Ger6 C#m C# C#7 F# Co7 Fo7 F# Co C#7 F#
+Gb Db Ab Db7 Bbm Eo7 Db7 Gbm Ab7 Ab%7 Eo7 Gbm Ab Fo7 Fo Gbm Cb7 Fb Co7 Ab7 Db Ab Ab7 Db Ab Ab7 Db Gb Ebm Ebo Ab7 Db Eb Gm7 Ab7 Db G#o Ab7 Db7 Gb DbGer6 Abm Ab Ab7 Ebm7 Db7 Gb DbGer6 Abm Ab Ab7 Db Go7 Co7 Db Go Ab7 Db
+Db Ab Eb Ab7 Fm Bo7 Ab7 Dbm Eb7 Eb%7 Bo7 Dbm Eb Co7 Co Dbm Gb7 Cb Go7 Eb7 Ab Eb Eb7 Ab Eb Eb7 Ab Db Bbm Bbo Eb7 Ab Bb Dm7 Eb7 Ab D#o Eb7 Ab7 Db AbGer6 Ebm Eb Eb7 Bbm7 Ab7 Db AbGer6 Ebm Eb Eb7 Ab Do7 Go7 Ab Do Eb7 Ab
+Ab Eb Bb Eb7 Cm Gbo7 Eb7 Abm Bb7 Bb%7 Gbo7 Abm Bb Go7 Go Abm Db7 Gb Do7 Bb7 Eb Bb Bb7 Eb Bb Bb7 Eb Ab Fm Fo Bb7 Eb F Am7 Bb7 Eb A#o Bb7 Eb7 Ab EbGer6 Bbm Bb Bb7 Fm7 Eb7 Ab EbGer6 Bbm Bb Bb7 Eb Ao7 Do7 Eb Ao Bb7 Eb
+Eb Bb F Bb7 Gm Dbo7 Bb7 Ebm F7 F%7 Dbo7 Ebm F Do7 Do Ebm Ab7 Db Ao7 F7 Bb F F7 Bb F F7 Bb Eb Cm Co F7 Bb C Em7 F7 Bb E#o F7 Bb7 Eb BbGer6 Fm F F7 Cm7 Bb7 Eb BbGer6 Fm F F7 Bb Eo7 Ao7 Bb Eo F7 Bb
+Bb F C F7 Dm Abo7 F7 Bbm C7 C%7 Abo7 Bbm C Ao7 Ao Bbm Eb7 Ab Eo7 C7 F C C7 F C C7 F Bb Gm Go C7 F G Bm7 C7 F B#o C7 F7 Bb FGer6 Cm C C7 Gm7 F7 Bb FGer6 Cm C C7 F Bo7 Eo7 F Bo C7 F
+G Cm Dm G7 C Am D7 B%7 G7 C Eo A7 Dm G7 C E7 A7 Dm B G G7 C C7 E7 A7 Dm G7 C G G7 G C G7 G C G7 C G C E Am D#o7 B7 C#o7 Dm Bo Dm C#o7 G7 C Go7 Bo7 C#o7 A7 Dm G7 Em Am7 F G7 C Dm G7 C Dm G7 C Dm G G7 C
+D Gm Am D7 G Em A7 F#%7 D7 G Bo E7 Am D7 G B7 E7 Am F# D D7 G G7 B7 E7 Am D7 G D D7 D G D7 D G D7 G D G B Em A#o7 F#7 G#o7 Am F#o Am G#o7 D7 G Do7 F#o7 G#o7 E7 Am D7 Bm Em7 C D7 G Am D7 G Am D7 G Am D D7 G
+A Dm Em A7 D Bm E7 C#%7 A7 D F#o B7 Em A7 D F#7 B7 Em C# A A7 D D7 F#7 B7 Em A7 D A A7 A D A7 A D A7 D A D F# Bm E#o7 C#7 D#o7 Em C#o Em D#o7 A7 D Ao7 C#o7 D#o7 B7 Em A7 F#m Bm7 G A7 D Em A7 D Em A7 D Em A A7 D
+E Am Bm E7 A F#m B7 G#%7 E7 A C#o F#7 Bm E7 A C#7 F#7 Bm G# E E7 A A7 C#7 F#7 Bm E7 A E E7 E A E7 E A E7 A E A C# F#m B#o7 G#7 A#o7 Bm G#o Bm A#o7 E7 A Eo7 G#o7 A#o7 F#7 Bm E7 C#m F#m7 D E7 A Bm E7 A Bm E7 A Bm E E7 A
+B Em F#m B7 E C#m F#7 D#%7 B7 E G#o C#7 F#m B7 E G#7 C#7 F#m D# B B7 E E7 G#7 C#7 F#m B7 E B B7 B E B7 B E B7 E B E G# C#m Go7 D#7 E#o7 F#m D#o F#m E#o7 B7 E Bo7 D#o7 E#o7 C#7 F#m B7 G#m C#m7 A B7 E F#m B7 E F#m B7 E F#m B B7 E
+F# Bm C#m F#7 B G#m C#7 A#%7 F#7 B D#o G#7 C#m F#7 B D#7 G#7 C#m A# F# F#7 B B7 D#7 G#7 C#m F#7 B F# F#7 F# B F#7 F# B F#7 B F# B D# G#m Do7 A#7 B#o7 C#m A#o C#m B#o7 F#7 B F#o7 A#o7 B#o7 G#7 C#m F#7 D#m G#m7 E F#7 B C#m F#7 B C#m F#7 B C#m F# F#7 B
+C# F#m G#m C#7 F# D#m G#7 F%7 C#7 F# A#o D#7 G#m C#7 F# A#7 D#7 G#m F C# C#7 F# F#7 A#7 D#7 G#m C#7 F# C# C#7 C# F# C#7 C# F# C#7 F# C# F# A# D#m Ao7 F7 Go7 G#m Fo G#m Go7 C#7 F# C#o7 Fo7 Go7 D#7 G#m C#7 A#m D#m7 B C#7 F# G#m C#7 F# G#m C#7 F# G#m C# C#7 F#
+Ab Dbm Ebm Ab7 Db Bbm Eb7 C%7 Ab7 Db Fo Bb7 Ebm Ab7 Db F7 Bb7 Ebm C Ab Ab7 Db Db7 F7 Bb7 Ebm Ab7 Db Ab Ab7 Ab Db Ab7 Ab Db Ab7 Db Ab Db F Bbm Eo7 C7 Do7 Ebm Co Ebm Do7 Ab7 Db G#o7 Co7 Do7 Bb7 Ebm Ab7 Fm Bbm7 Gb Ab7 Db Ebm Ab7 Db Ebm Ab7 Db Ebm Ab Ab7 Db
+Eb Abm Bbm Eb7 Ab Fm Bb7 G%7 Eb7 Ab Co F7 Bbm Eb7 Ab C7 F7 Bbm G Eb Eb7 Ab Ab7 C7 F7 Bbm Eb7 Ab Eb Eb7 Eb Ab Eb7 Eb Ab Eb7 Ab Eb Ab C Fm Bo7 G7 Ao7 Bbm Go Bbm Ao7 Eb7 Ab D#o7 Go7 Ao7 F7 Bbm Eb7 Cm Fm7 Db Eb7 Ab Bbm Eb7 Ab Bbm Eb7 Ab Bbm Eb Eb7 Ab
+Bb Ebm Fm Bb7 Eb Cm F7 D%7 Bb7 Eb Go C7 Fm Bb7 Eb G7 C7 Fm D Bb Bb7 Eb Eb7 G7 C7 Fm Bb7 Eb Bb Bb7 Bb Eb Bb7 Bb Eb Bb7 Eb Bb Eb G Cm F#o7 D7 Eo7 Fm Do Fm Eo7 Bb7 Eb A#o7 Do7 Eo7 C7 Fm Bb7 Gm Cm7 Ab Bb7 Eb Fm Bb7 Eb Fm Bb7 Eb Fm Bb Bb7 Eb
+F Bbm Cm F7 Bb Gm C7 A%7 F7 Bb Do G7 Cm F7 Bb D7 G7 Cm A F F7 Bb Bb7 D7 G7 Cm F7 Bb F F7 F Bb F7 F Bb F7 Bb F Bb D Gm C#o7 A7 Bo7 Cm Ao Cm Bo7 F7 Bb E#o7 Ao7 Bo7 G7 Cm F7 Dm Gm7 Eb F7 Bb Cm F7 Bb Cm F7 Bb Cm F F7 Bb
+C Fm Gm C7 F Dm G7 E%7 C7 F Ao D7 Gm C7 F A7 D7 Gm E C C7 F F7 A7 D7 Gm C7 F C C7 C F C7 C F C7 F C F A Dm G#o7 E7 F#o7 Gm Eo Gm F#o7 C7 F B#o7 Eo7 F#o7 D7 Gm C7 Am Dm7 Bb C7 F Gm C7 F Gm C7 F Gm C C7 F
+E7 Am E7 E Am E7 Am
+B7 Em B7 B Em B7 Em
+F#7 Bm F#7 F# Bm F#7 Bm
+C#7 F#m C#7 C# F#m C#7 F#m
+G#7 C#m G#7 G# C#m G#7 C#m
+D#7 G#m D#7 D# G#m D#7 G#m
+A#7 D#m A#7 A# D#m A#7 D#m
+F7 Bbm F7 F Bbm F7 Bbm
+C7 Fm C7 C Fm C7 Fm
+G7 Cm G7 G Cm G7 Cm
+D7 Gm D7 D Gm D7 Gm
+A7 Dm A7 A Dm A7 Dm
+E E7 F#m G#o Ao7 B E C#o A A7 D F#m D A E#o7 F#m D Em D A D E E7 A E F#m E Bm A G#o C#o D E A
+B B7 C#m D#o Eo7 F# B G#o E E7 A C#m A E B#o7 C#m A Bm A E A B B7 E B C#m B F#m E D#o G#o A B E
+F# F#7 G#m A#o Bo7 C# F# D#o B B7 E G#m E B Go7 G#m E F#m E B E F# F#7 B F# G#m F# C#m B A#o D#o E F# B
+C# C#7 D#m Fo F#o7 G# C# A#o F# F#7 B D#m B F# Do7 D#m B C#m B F# B C# C#7 F# C# D#m C# G#m F# Fo A#o B C# F#
+G# G#7 A#m Co C#o7 D# G# Fo C# C#7 F# A#m F# C# Ao7 A#m F# G#m F# C# F# G# G#7 C# G# A#m G# D#m C# Co Fo F# G# C#
+D# D#7 Fm Go G#o7 A# D# Co G# G#7 C# Fm C# G# Eo7 Fm C# D#m C# G# C# D# D#7 G# D# Fm D# A#m G# Go Co C# D# G#
+Bb Bb7 Cm Do Ebo7 F Bb Go Eb Eb7 Ab Cm Ab Eb Bo7 Cm Ab Bbm Ab Eb Ab Bb Bb7 Eb Bb Cm Bb Fm Eb Do Go Ab Bb Eb
+F F7 Gm Ao Bbo7 C F Do Bb Bb7 Eb Gm Eb Bb F#o7 Gm Eb Fm Eb Bb Eb F F7 Bb F Gm F Cm Bb Ao Do Eb F Bb
+C C7 Dm Eo Fo7 G C Ao F F7 Bb Dm Bb F C#o7 Dm Bb Cm Bb F Bb C C7 F C Dm C Gm F Eo Ao Bb C F
+G G7 Am Bo Co7 D G Eo C C7 F Am F C G#o7 Am F Gm F C F G G7 C G Am G Dm C Bo Eo F G C
+D D7 Em F#o Go7 A D Bo G G7 C Em C G D#o7 Em C Dm C G C D D7 G D Em D Am G F#o Bo C D G
+A A7 Bm C#o Do7 E A F#o D D7 G Bm G D A#o7 Bm G Am G D G A A7 D A Bm A Em D C#o F#o G A D
+F#o7 Gm Do7 D D7 G
+C#o7 Dm Ao7 A A7 D
+G#o7 Am Eo7 E E7 A
+D#o7 Em Bo7 B B7 E
+A#o7 Bm F#o7 F# F#7 B
+Fo7 F#m C#o7 C# C#7 F#
+Co7 C#m G#o7 G# G#7 C#
+Go7 Abm D#o7 Eb Eb7 Ab
+Do7 Ebm A#o7 Bb Bb7 Eb
+Ao7 Bbm E#o7 F F7 Bb
+Eo7 Fm B#o7 C C7 F
+Bo7 Cm Go7 G G7 C
+C7 F Eo Dm C Bb F Eo Fm
+G7 C Bo Am G F C Bo Cm
+D7 G F#o Em D C G F#o Gm
+A7 D C#o Bm A G D C#o Dm
+E7 A G#o F#m E D A G#o Am
+B7 E D#o C#m B A E D#o Em
+F#7 B A#o G#m F# E B A#o Bm
+Db7 Gb Fo Ebm Db B Gb Fo Gbm
+Ab7 Db Co Bbm Ab Gb Db Co Dbm
+Eb7 Ab Go Fm Eb Db Ab Go Abm
+Bb7 Eb Do Cm Bb Ab Eb Do Ebm
+F7 Bb Ao Gm F Eb Bb Ao Bbm
+Ebm B Em A B Em D#o7 E7 Am E Am D E Dm A A7 Gm A7 Dm Bb Dm C#o7 Dm C G7 C Bo G7 C Dm7 C F Go G C G7 C G Go7 Gm G G7 C Dm7 C G C G7 C Am7 G D7 G B%7 C G7 C G Am C7 F Dm AIt6 E Am
+Bbm F# Bm E F# Bm A#o7 B7 Em B Em A B Am E E7 Dm E7 Am F Am G#o7 Am G D7 G F#o D7 G Am7 G C Do D G D7 G D Do7 Dm D D7 G Am7 G D G D7 G Em7 D A7 D F#%7 G D7 G D Em G7 C Am EIt6 B Em
+Fm C# F#m B C# F#m E#o7 F#7 Bm F# Bm E F# Em B B7 Am B7 Em C Em D#o7 Em D A7 D C#o A7 D Em7 D G Ao A D A7 D A Ao7 Am A A7 D Em7 D A D A7 D Bm7 A E7 A C#%7 D A7 D A Bm D7 G Em BIt6 F# Bm
+Cm G# C#m F# G# C#m B#o7 C#7 F#m C# F#m B C# Bm F# F#7 Em F#7 Bm G Bm A#o7 Bm A E7 A G#o E7 A Bm7 A D Eo E A E7 A E Eo7 Em E E7 A Bm7 A E A E7 A F#m7 E B7 E G#%7 A E7 A E F#m A7 D Bm F#It6 C# F#m
+Gm D# G#m C# D# G#m Go7 G#7 C#m G# C#m F# G# F#m C# C#7 Bm C#7 F#m D F#m E#o7 F#m E B7 E D#o B7 E F#m7 E A Bo B E B7 E B Bo7 Bm B B7 E F#m7 E B E B7 E C#m7 B F#7 B D#%7 E B7 E B C#m E7 A F#m C#It6 G# C#m
+Dm A# D#m G# A# D#m Do7 D#7 G#m D# G#m C# D# C#m G# G#7 F#m G#7 C#m A C#m B#o7 C#m B F#7 B A#o F#7 B C#m7 B E F#o F# B F#7 B F# F#o7 F#m F# F#7 B C#m7 B F# B F#7 B G#m7 F# C#7 F# A#%7 B F#7 B F# G#m B7 E C#m G#It6 D# G#m
+Am F A#m D# F A#m Ao7 A#7 D#m A# D#m G# A# G#m D# D#7 C#m D#7 G#m E G#m Go7 G#m F# C#7 F# Fo C#7 F# G#m7 F# B C#o C# F# C#7 F# C# C#o7 C#m C# C#7 F# G#m7 F# C# F# C#7 F# D#m7 C# G#7 C# F%7 F# C#7 F# C# D#m F#7 B G#m D#It6 A# D#m
+Fbm C Fm Bb C Fm Eo7 F7 Bbm F Bbm Eb F Ebm Bb Bb7 Abm Bb7 Ebm B Ebm Do7 Ebm Db Ab7 Db Co Ab7 Db Ebm7 Db Gb G#o Ab Db Ab7 Db Ab G#o7 Abm Ab Ab7 Db Ebm7 Db Ab Db Ab7 Db Bbm7 Ab Eb7 Ab C%7 Db Ab7 Db Ab Bbm Db7 Gb Ebm BbIt6 F Bbm
+Cbm G Cm F G Cm Bo7 C7 Fm C Fm Bb C Bbm F F7 Ebm F7 Bbm Gb Bbm Ao7 Bbm Ab Eb7 Ab Go Eb7 Ab Bbm7 Ab Db D#o Eb Ab Eb7 Ab Eb D#o7 Ebm Eb Eb7 Ab Bbm7 Ab Eb Ab Eb7 Ab Fm7 Eb Bb7 Eb G%7 Ab Eb7 Ab Eb Fm Ab7 Db Bbm FIt6 C Fm
+Gbm D Gm C D Gm F#o7 G7 Cm G Cm F G Fm C C7 Bbm C7 Fm Db Fm Eo7 Fm Eb Bb7 Eb Do Bb7 Eb Fm7 Eb Ab A#o Bb Eb Bb7 Eb Bb A#o7 Bbm Bb Bb7 Eb Fm7 Eb Bb Eb Bb7 Eb Cm7 Bb F7 Bb D%7 Eb Bb7 Eb Bb Cm Eb7 Ab Fm CIt6 G Cm
+Dbm A Dm G A Dm C#o7 D7 Gm D Gm C D Cm G G7 Fm G7 Cm Ab Cm Bo7 Cm Bb F7 Bb Ao F7 Bb Cm7 Bb Eb E#o F Bb F7 Bb F E#o7 Fm F F7 Bb Cm7 Bb F Bb F7 Bb Gm7 F C7 F A%7 Bb F7 Bb F Gm Bb7 Eb Cm GIt6 D Gm
+Abm E Am D E Am G#o7 A7 Dm A Dm G A Gm D D7 Cm D7 Gm Eb Gm F#o7 Gm F C7 F Eo C7 F Gm7 F Bb B#o C F C7 F C B#o7 Cm C C7 F Gm7 F C F C7 F Dm7 C G7 C E%7 F C7 F C Dm F7 Bb Gm DIt6 A Dm
+C Bo C F G7 C G7 G Bo C Am E7 Am Dm G G7 C
+G F#o G C D7 G D7 D F#o G Em B7 Em Am D D7 G
+D C#o D G A7 D A7 A C#o D Bm F#7 Bm Em A A7 D
+A G#o A D E7 A E7 E G#o A F#m C#7 F#m Bm E E7 A
+E D#o E A B7 E B7 B D#o E C#m G#7 C#m F#m B B7 E
+B A#o B E F#7 B F#7 F# A#o B G#m D#7 G#m C#m F# F#7 B
+Gb Fo Gb B Db7 Gb Db7 Db Fo Gb Ebm Bb7 Ebm Abm Db Db7 Gb
+Db Co Db Gb Ab7 Db Ab7 Ab Co Db Bbm F7 Bbm Ebm Ab Ab7 Db
+Ab Go Ab Db Eb7 Ab Eb7 Eb Go Ab Fm C7 Fm Bbm Eb Eb7 Ab
+Eb Do Eb Ab Bb7 Eb Bb7 Bb Do Eb Cm G7 Cm Fm Bb Bb7 Eb
+Bb Ao Bb Eb F7 Bb F7 F Ao Bb Gm D7 Gm Cm F F7 Bb
+F Eo F Bb C7 F C7 C Eo F Dm A7 Dm Gm C C7 F
+Am Bo7 Em C F#7 B7 Em
+Em F#o7 Bm G C#7 F#7 Bm
+Bm C#o7 F#m D G#7 C#7 F#m
+F#m G#o7 C#m A D#7 G#7 C#m
+C#m D#o7 G#m E A#7 D#7 G#m
+G#m A#o7 D#m B F7 A#7 D#m
+Ebm E#o7 Bbm Gb C7 F7 Bbm
+Bbm B#o7 Fm Db G7 C7 Fm
+Fm Go7 Cm Ab D7 G7 Cm
+Cm Do7 Gm Eb A7 D7 Gm
+Gm Ao7 Dm Bb E7 A7 Dm
+Dm Eo7 Am F B7 E7 Am
+C G7 C
+G D7 G
+D A7 D
+A E7 A
+E B7 E
+B F#7 B
+F# C#7 F#
+Db Ab7 Db
+Ab Eb7 Ab
+Eb Bb7 Eb
+Bb F7 Bb
+F C7 F
+G F Ebm Dm C#o7 Dm Bbo7 C C#o7 Dm Bbo7 C G7 Bbo7 G7 C
+D C Bbm Am G#o7 Am Fo7 G G#o7 Am Fo7 G D7 Fo7 D7 G
+A G Fm Em D#o7 Em Co7 D D#o7 Em Co7 D A7 Co7 A7 D
+E D Cm Bm A#o7 Bm Go7 A A#o7 Bm Go7 A E7 Go7 E7 A
+B A Gm F#m E#o7 F#m Do7 E E#o7 F#m Do7 E B7 Do7 B7 E
+F# E Dm C#m B#o7 C#m Ao7 B B#o7 C#m Ao7 B F#7 Ao7 F#7 B
+C# B Am G#m Go7 G#m Eo7 F# Go7 G#m Eo7 F# C#7 Eo7 C#7 F#
+Ab Gb Em Ebm Do7 Ebm Bo7 Db Do7 Ebm Bo7 Db Ab7 Bo7 Ab7 Db
+Eb Db Bm Bbm Ao7 Bbm Gbo7 Ab Ao7 Bbm Gbo7 Ab Eb7 Gbo7 Eb7 Ab
+Bb Ab Gbm Fm Eo7 Fm Dbo7 Eb Eo7 Fm Dbo7 Eb Bb7 Dbo7 Bb7 Eb
+F Eb Dbm Cm Bo7 Cm Abo7 Bb Bo7 Cm Abo7 Bb F7 Abo7 F7 Bb
+C Bb Abm Gm F#o7 Gm Ebo7 F F#o7 Gm Ebo7 F C7 Ebo7 C7 F
+D7 G D G
+A7 D A D
+E7 A E A
+B7 E B E
+F#7 B F# B
+C#7 F# C# F#
+G#7 C# G# C#
+Eb7 Ab Eb Ab
+Bb7 Eb Bb Eb
+F7 Bb F Bb
+C7 F C F
+G7 C G C
+G G7 C F C Bo C F G G7 C
+D D7 G C G F#o G C D D7 G
+A A7 D G D C#o D G A A7 D
+E E7 A D A G#o A D E E7 A
+B B7 E A E D#o E A B B7 E
+F# F#7 B E B A#o B E F# F#7 B
+C# C#7 F# B F# Fo F# B C# C#7 F#
+Ab Ab7 Db Gb Db Co Db Gb Ab Ab7 Db
+Eb Eb7 Ab Db Ab Go Ab Db Eb Eb7 Ab
+Bb Bb7 Eb Ab Eb Do Eb Ab Bb Bb7 Eb
+F F7 Bb Eb Bb Ao Bb Eb F F7 Bb
+C C7 F Bb F Eo F Bb C C7 F
+Bo Am Bo G C G G7 C F G7 G G7 C
+F#o Em F#o D G D D7 G C D7 D D7 G
+C#o Bm C#o A D A A7 D G A7 A A7 D
+G#o F#m G#o E A E E7 A D E7 E E7 A
+D#o C#m D#o B E B B7 E A B7 B B7 E
+A#o G#m A#o F# B F# F#7 B E F#7 F# F#7 B
+Fo D#m Fo C# F# C# C#7 F# B C#7 C# C#7 F#
+Co Bbm Co Ab Db Ab Ab7 Db Gb Ab7 Ab Ab7 Db
+Go Fm Go Eb Ab Eb Eb7 Ab Db Eb7 Eb Eb7 Ab
+Do Cm Do Bb Eb Bb Bb7 Eb Ab Bb7 Bb Bb7 Eb
+Ao Gm Ao F Bb F F7 Bb Eb F7 F F7 Bb
+Eo Dm Eo C F C C7 F Bb C7 C C7 F
+C7 Db G%7 C C7 Fm
+G7 Ab D%7 G G7 Cm
+D7 Eb A%7 D D7 Gm
+A7 Bb E%7 A A7 Dm
+E7 F B%7 E E7 Am
+B7 C F#%7 B B7 Em
+F#7 G C#%7 F# F#7 Bm
+Db7 D Ab%7 Db Db7 Gbm
+Ab7 A Eb%7 Ab Ab7 Dbm
+Eb7 E Bb%7 Eb Eb7 Abm
+Bb7 B F%7 Bb Bb7 Ebm
+F7 Gb C%7 F F7 Bbm
+C G7 C Am F
+G D7 G Em C
+D A7 D Bm G
+A E7 A F#m D
+E B7 E C#m A
+B F#7 B G#m E
+F# C#7 F# D#m B
+Db Ab7 Db Bbm Gb
+Ab Eb7 Ab Fm Db
+Eb Bb7 Eb Cm Ab
+Bb F7 Bb Gm Eb
+F C7 F Dm Bb
+D A7 D D7 B7 B E B7 B B7 E C#m7 B B7 A D#o E B7 E C G7 G Am7 G7 G C G7 G Am G C
+A E7 A A7 F#7 F# B F#7 F# F#7 B G#m7 F# F#7 E A#o B F#7 B G D7 D Em7 D7 D G D7 D Em D G
+E B7 E E7 C#7 C# F# C#7 C# C#7 F# D#m7 C# C#7 B Fo F# C#7 F# D A7 A Bm7 A7 A D A7 A Bm A D
+B F#7 B B7 G#7 G# C# G#7 G# G#7 C# A#m7 G# G#7 F# Co C# G#7 C# A E7 E F#m7 E7 E A E7 E F#m E A
+F# C#7 F# F#7 D#7 D# G# D#7 D# D#7 G# Fm7 D# D#7 C# Go G# D#7 G# E B7 B C#m7 B7 B E B7 B C#m B E
+C# G#7 C# C#7 A#7 A# D# A#7 A# A#7 D# Cm7 A# A#7 G# Do D# A#7 D# B F#7 F# G#m7 F#7 F# B F#7 F# G#m F# B
+G# D#7 G# G#7 F7 F A# F7 F F7 A# Gm7 F F7 D# Ao A# F7 A# F# C#7 C# D#m7 C#7 C# F# C#7 C# D#m C# F#
+Eb Bb7 Eb Eb7 C7 C F C7 C C7 F Dm7 C C7 Bb Eo F C7 F Db Ab7 Ab Bbm7 Ab7 Ab Db Ab7 Ab Bbm Ab Db
+Bb F7 Bb Bb7 G7 G C G7 G G7 C Am7 G G7 F Bo C G7 C Ab Eb7 Eb Fm7 Eb7 Eb Ab Eb7 Eb Fm Eb Ab
+F C7 F F7 D7 D G D7 D D7 G Em7 D D7 C F#o G D7 G Eb Bb7 Bb Cm7 Bb7 Bb Eb Bb7 Bb Cm Bb Eb
+C G7 C C7 A7 A D A7 A A7 D Bm7 A A7 G C#o D A7 D Bb F7 F Gm7 F7 F Bb F7 F Gm F Bb
+G D7 G G7 E7 E A E7 E E7 A F#m7 E E7 D G#o A E7 A F C7 C Dm7 C7 C F C7 C Dm C F
+D E7 Am F# A#o Bm D7 G C D D7 G
+A B7 Em C# E#o F#m A7 D G A A7 D
+E F#7 Bm G# B#o C#m E7 A D E E7 A
+B C#7 F#m D# Go G#m B7 E A B B7 E
+F# G#7 C#m A# Do D#m F#7 B E F# F#7 B
+C# D#7 G#m F Ao A#m C#7 F# B C# C#7 F#
+G# A#7 D#m C Eo Fm G#7 C# F# G# G#7 C#
+Eb F7 Bbm G Bo Cm Eb7 Ab Db Eb Eb7 Ab
+Bb C7 Fm D F#o Gm Bb7 Eb Ab Bb Bb7 Eb
+F G7 Cm A C#o Dm F7 Bb Eb F F7 Bb
+C D7 Gm E G#o Am C7 F Bb C C7 F
+G A7 Dm B D#o Em G7 C F G G7 C
+C G7 C
+G D7 G
+D A7 D
+A E7 A
+E B7 E
+B F#7 B
+F# C#7 F#
+Db Ab7 Db
+Ab Eb7 Ab
+Eb Bb7 Eb
+Bb F7 Bb
+F C7 F
+Am A7 Dm G7 C Am F G C C7 A7 Dm G G7 C Am Dm7 G C
+Em E7 Am D7 G Em C D G G7 E7 Am D D7 G Em Am7 D G
+Bm B7 Em A7 D Bm G A D D7 B7 Em A A7 D Bm Em7 A D
+F#m F#7 Bm E7 A F#m D E A A7 F#7 Bm E E7 A F#m Bm7 E A
+C#m C#7 F#m B7 E C#m A B E E7 C#7 F#m B B7 E C#m F#m7 B E
+G#m G#7 C#m F#7 B G#m E F# B B7 G#7 C#m F# F#7 B G#m C#m7 F# B
+D#m D#7 G#m C#7 F# D#m B C# F# F#7 D#7 G#m C# C#7 F# D#m G#m7 C# F#
+Bbm Bb7 Ebm Ab7 Db Bbm Gb Ab Db Db7 Bb7 Ebm Ab Ab7 Db Bbm Ebm7 Ab Db
+Fm F7 Bbm Eb7 Ab Fm Db Eb Ab Ab7 F7 Bbm Eb Eb7 Ab Fm Bbm7 Eb Ab
+Cm C7 Fm Bb7 Eb Cm Ab Bb Eb Eb7 C7 Fm Bb Bb7 Eb Cm Fm7 Bb Eb
+Gm G7 Cm F7 Bb Gm Eb F Bb Bb7 G7 Cm F F7 Bb Gm Cm7 F Bb
+Dm D7 Gm C7 F Dm Bb C F F7 D7 Gm C C7 F Dm Gm7 C F
+C Cm G7 Cm
+G Gm D7 Gm
+D Dm A7 Dm
+A Am E7 Am
+E Em B7 Em
+B Bm F#7 Bm
+F# F#m C#7 F#m
+Db Dbm Ab7 Dbm
+Ab Abm Eb7 Abm
+Eb Ebm Bb7 Ebm
+Bb Bbm F7 Bbm
+F Fm C7 Fm
+G+ C Bo C C7 F C F C#o Dm Go G Go G7 C
+D+ G F#o G G7 C G C G#o Am Do D Do D7 G
+A+ D C#o D D7 G D G D#o Em Ao A Ao A7 D
+E+ A G#o A A7 D A D A#o Bm Eo E Eo E7 A
+B+ E D#o E E7 A E A E#o F#m Bo B Bo B7 E
+F#+ B A#o B B7 E B E B#o C#m F#o F# F#o F#7 B
+C#+ F# Fo F# F#7 B F# B Go G#m C#o C# C#o C#7 F#
+Ab+ Db Co Db Db7 Gb Db Gb Do Ebm G#o Ab G#o Ab7 Db
+Eb+ Ab Go Ab Ab7 Db Ab Db Ao Bbm D#o Eb D#o Eb7 Ab
+Bb+ Eb Do Eb Eb7 Ab Eb Ab Eo Fm A#o Bb A#o Bb7 Eb
+F+ Bb Ao Bb Bb7 Eb Bb Eb Bo Cm E#o F E#o F7 Bb
+C+ F Eo F F7 Bb F Bb F#o Gm B#o C B#o C7 F
+F C7 F B#o C C7 F#o7 Gm Eo7 F Gm C C7 F
+C G7 C Go G G7 C#o7 Dm Bo7 C Dm G G7 C
+G D7 G Do D D7 G#o7 Am F#o7 G Am D D7 G
+D A7 D Ao A A7 D#o7 Em C#o7 D Em A A7 D
+A E7 A Eo E E7 A#o7 Bm G#o7 A Bm E E7 A
+E B7 E Bo B B7 E#o7 F#m D#o7 E F#m B B7 E
+B F#7 B F#o F# F#7 B#o7 C#m A#o7 B C#m F# F#7 B
+Gb Db7 Gb C#o Db Db7 Go7 Abm Fo7 Gb Abm Db Db7 Gb
+Db Ab7 Db G#o Ab Ab7 Do7 Ebm Co7 Db Ebm Ab Ab7 Db
+Ab Eb7 Ab D#o Eb Eb7 Ao7 Bbm Go7 Ab Bbm Eb Eb7 Ab
+Eb Bb7 Eb A#o Bb Bb7 Eo7 Fm Do7 Eb Fm Bb Bb7 Eb
+Bb F7 Bb E#o F F7 Bo7 Cm Ao7 Bb Cm F F7 Bb
+G7 C G C Bo C G G7 C G G7 C G C G7 A C G7 C F G Go7 Em D Go D D7 G Gm D D7 G Gm D D7 G Gm D D7 G Gm D
+D7 G D G F#o G D D7 G D D7 G D G D7 E G D7 G C D Do7 Bm A Do A A7 D Dm A A7 D Dm A A7 D Dm A A7 D Dm A
+A7 D A D C#o D A A7 D A A7 D A D A7 B D A7 D G A Ao7 F#m E Ao E E7 A Am E E7 A Am E E7 A Am E E7 A Am E
+E7 A E A G#o A E E7 A E E7 A E A E7 F# A E7 A D E Eo7 C#m B Eo B B7 E Em B B7 E Em B B7 E Em B B7 E Em B
+B7 E B E D#o E B B7 E B B7 E B E B7 C# E B7 E A B Bo7 G#m F# Bo F# F#7 B Bm F# F#7 B Bm F# F#7 B Bm F# F#7 B Bm F#
+F#7 B F# B A#o B F# F#7 B F# F#7 B F# B F#7 G# B F#7 B E F# F#o7 D#m C# F#o C# C#7 F# F#m C# C#7 F# F#m C# C#7 F# F#m C# C#7 F# F#m C#
+C#7 F# C# F# Fo F# C# C#7 F# C# C#7 F# C# F# C#7 D# F# C#7 F# B C# C#o7 A#m G# C#o G# G#7 C# C#m G# G#7 C# C#m G# G#7 C# C#m G# G#7 C# C#m G#
+Ab7 Db Ab Db Co Db Ab Ab7 Db Ab Ab7 Db Ab Db Ab7 Bb Db Ab7 Db Gb Ab G#o7 Fm Eb G#o Eb Eb7 Ab Abm Eb Eb7 Ab Abm Eb Eb7 Ab Abm Eb Eb7 Ab Abm Eb
+Eb7 Ab Eb Ab Go Ab Eb Eb7 Ab Eb Eb7 Ab Eb Ab Eb7 F Ab Eb7 Ab Db Eb D#o7 Cm Bb D#o Bb Bb7 Eb Ebm Bb Bb7 Eb Ebm Bb Bb7 Eb Ebm Bb Bb7 Eb Ebm Bb
+Bb7 Eb Bb Eb Do Eb Bb Bb7 Eb Bb Bb7 Eb Bb Eb Bb7 C Eb Bb7 Eb Ab Bb A#o7 Gm F A#o F F7 Bb Bbm F F7 Bb Bbm F F7 Bb Bbm F F7 Bb Bbm F
+F7 Bb F Bb Ao Bb F F7 Bb F F7 Bb F Bb F7 G Bb F7 Bb Eb F E#o7 Dm C E#o C C7 F Fm C C7 F Fm C C7 F Fm C C7 F Fm C
+C7 F C F Eo F C C7 F C C7 F C F C7 D F C7 F Bb C B#o7 Am G B#o G G7 C Cm G G7 C Cm G G7 C Cm G G7 C Cm G
+C G7 C G
+G D7 G D
+D A7 D A
+A E7 A E
+E B7 E B
+B F#7 B F#
+F# C#7 F# C#
+Db Ab7 Db Ab
+Ab Eb7 Ab Eb
+Eb Bb7 Eb Bb
+Bb F7 Bb F
+F C7 F C
+D7 G D7 D D7 G C Dm C Bo Am G F Em Dm C#o Go7 Bo G#o7 Dm Bb7 G7 Dm C Bo C F G7 Dm C Bo Eo Dm C#o Gm F Eo Gm F Eo Bb F Dm G7 C F Dm G7 C Am G Gm F Dm A C#o A7 Dm
+A7 D A7 A A7 D G Am G F#o Em D C Bm Am G#o Do7 F#o D#o7 Am F7 D7 Am G F#o G C D7 Am G F#o Bo Am G#o Dm C Bo Dm C Bo F C Am D7 G C Am D7 G Em D Dm C Am E G#o E7 Am
+E7 A E7 E E7 A D Em D C#o Bm A G F#m Em D#o Ao7 C#o A#o7 Em C7 A7 Em D C#o D G A7 Em D C#o F#o Em D#o Am G F#o Am G F#o C G Em A7 D G Em A7 D Bm A Am G Em B D#o B7 Em
+B7 E B7 B B7 E A Bm A G#o F#m E D C#m Bm A#o Eo7 G#o E#o7 Bm G7 E7 Bm A G#o A D E7 Bm A G#o C#o Bm A#o Em D C#o Em D C#o G D Bm E7 A D Bm E7 A F#m E Em D Bm F# A#o F#7 Bm
+F#7 B F#7 F# F#7 B E F#m E D#o C#m B A G#m F#m E#o Bo7 D#o B#o7 F#m D7 B7 F#m E D#o E A B7 F#m E D#o G#o F#m E#o Bm A G#o Bm A G#o D A F#m B7 E A F#m B7 E C#m B Bm A F#m C# E#o C#7 F#m
+C#7 F# C#7 C# C#7 F# B C#m B A#o G#m F# E D#m C#m B#o F#o7 A#o Go7 C#m A7 F#7 C#m B A#o B E F#7 C#m B A#o D#o C#m B#o F#m E D#o F#m E D#o A E C#m F#7 B E C#m F#7 B G#m F# F#m E C#m G# B#o G#7 C#m
+G#7 C# G#7 G# G#7 C# F# G#m F# Fo D#m C# B A#m G#m Go C#o7 Fo Do7 G#m Fb7 C#7 G#m F# Fo F# B C#7 G#m F# Fo A#o G#m Go C#m B A#o C#m B A#o Fb B G#m C#7 F# B G#m C#7 F# D#m C# C#m B G#m D# Go D#7 G#m
+Eb7 Ab Eb7 Eb Eb7 Ab Db Ebm Db Co Bbm Ab Gb Fm Ebm Do G#o7 Co Ao7 Ebm Cb7 Ab7 Ebm Db Co Db Gb Ab7 Ebm Db Co Fo Ebm Do Abm Gb Fo Abm Gb Fo Cb Gb Ebm Ab7 Db Gb Ebm Ab7 Db Bbm Ab Abm Gb Ebm Bb Do Bb7 Ebm
+Bb7 Eb Bb7 Bb Bb7 Eb Ab Bbm Ab Go Fm Eb Db Cm Bbm Ao D#o7 Go Eo7 Bbm Gb7 Eb7 Bbm Ab Go Ab Db Eb7 Bbm Ab Go Co Bbm Ao Ebm Db Co Ebm Db Co Gb Db Bbm Eb7 Ab Db Bbm Eb7 Ab Fm Eb Ebm Db Bbm F Ao F7 Bbm
+F7 Bb F7 F F7 Bb Eb Fm Eb Do Cm Bb Ab Gm Fm Eo A#o7 Do Bo7 Fm Db7 Bb7 Fm Eb Do Eb Ab Bb7 Fm Eb Do Go Fm Eo Bbm Ab Go Bbm Ab Go Db Ab Fm Bb7 Eb Ab Fm Bb7 Eb Cm Bb Bbm Ab Fm C Eo C7 Fm
+C7 F C7 C C7 F Bb Cm Bb Ao Gm F Eb Dm Cm Bo E#o7 Ao F#o7 Cm Ab7 F7 Cm Bb Ao Bb Eb F7 Cm Bb Ao Do Cm Bo Fm Eb Do Fm Eb Do Ab Eb Cm F7 Bb Eb Cm F7 Bb Gm F Fm Eb Cm G Bo G7 Cm
+G7 C G7 G G7 C F Gm F Eo Dm C Bb Am Gm F#o B#o7 Eo C#o7 Gm Eb7 C7 Gm F Eo F Bb C7 Gm F Eo Ao Gm F#o Cm Bb Ao Cm Bb Ao Eb Bb Gm C7 F Bb Gm C7 F Dm C Cm Bb Gm D F#o D7 Gm
+G7 C Am F Dm G C G7 C Am F Dm Bo G C G Bo7 C G7 C C#o7 Go7 Bo7 C#o7 Go7 Bo7 C#o7 F C7 F Fm G G7 C E+ A7 Dm A Dm G7 C F G C Am F G C Eo F Bb C F Dm G7 C Dm A7 Dm G7 C7 F
+D7 G Em C Am D G D7 G Em C Am F#o D G D F#o7 G D7 G G#o7 Do7 F#o7 G#o7 Do7 F#o7 G#o7 C G7 C Cm D D7 G B+ E7 Am E Am D7 G C D G Em C D G Bo C F G C Am D7 G Am E7 Am D7 G7 C
+A7 D Bm G Em A D A7 D Bm G Em C#o A D A C#o7 D A7 D D#o7 Ao7 C#o7 D#o7 Ao7 C#o7 D#o7 G D7 G Gm A A7 D F#+ B7 Em B Em A7 D G A D Bm G A D F#o G C D G Em A7 D Em B7 Em A7 D7 G
+E7 A F#m D Bm E A E7 A F#m D Bm G#o E A E G#o7 A E7 A A#o7 Eo7 G#o7 A#o7 Eo7 G#o7 A#o7 D A7 D Dm E E7 A C#+ F#7 Bm F# Bm E7 A D E A F#m D E A C#o D G A D Bm E7 A Bm F#7 Bm E7 A7 D
+B7 E C#m A F#m B E B7 E C#m A F#m D#o B E B D#o7 E B7 E E#o7 Bo7 D#o7 E#o7 Bo7 D#o7 E#o7 A E7 A Am B B7 E G#+ C#7 F#m C# F#m B7 E A B E C#m A B E G#o A D E A F#m B7 E F#m C#7 F#m B7 E7 A
+F#7 B G#m E C#m F# B F#7 B G#m E C#m A#o F# B F# A#o7 B F#7 B B#o7 F#o7 A#o7 B#o7 F#o7 A#o7 B#o7 E B7 E Em F# F#7 B D#+ G#7 C#m G# C#m F#7 B E F# B G#m E F# B D#o E A B E C#m F#7 B C#m G#7 C#m F#7 B7 E
+C#7 F# D#m B G#m C# F# C#7 F# D#m B G#m Fo C# F# C# Fo7 F# C#7 F# Go7 C#o7 Fo7 Go7 C#o7 Fo7 Go7 B F#7 B Bm C# C#7 F# A#+ D#7 G#m D# G#m C#7 F# B C# F# D#m B C# F# A#o B E F# B G#m C#7 F# G#m D#7 G#m C#7 F#7 B
+Ab7 Db Bbm Gb Ebm Ab Db Ab7 Db Bbm Gb Ebm Co Ab Db Ab Co7 Db Ab7 Db Do7 G#o7 Co7 Do7 G#o7 Co7 Do7 Gb Db7 Gb Gbm Ab Ab7 Db F+ Bb7 Ebm Bb Ebm Ab7 Db Gb Ab Db Bbm Gb Ab Db Fo Gb B Db Gb Ebm Ab7 Db Ebm Bb7 Ebm Ab7 Db7 Gb
+Eb7 Ab Fm Db Bbm Eb Ab Eb7 Ab Fm Db Bbm Go Eb Ab Eb Go7 Ab Eb7 Ab Ao7 D#o7 Go7 Ao7 D#o7 Go7 Ao7 Db Ab7 Db Dbm Eb Eb7 Ab C+ F7 Bbm F Bbm Eb7 Ab Db Eb Ab Fm Db Eb Ab Co Db Gb Ab Db Bbm Eb7 Ab Bbm F7 Bbm Eb7 Ab7 Db
+Bb7 Eb Cm Ab Fm Bb Eb Bb7 Eb Cm Ab Fm Do Bb Eb Bb Do7 Eb Bb7 Eb Eo7 A#o7 Do7 Eo7 A#o7 Do7 Eo7 Ab Eb7 Ab Abm Bb Bb7 Eb G+ C7 Fm C Fm Bb7 Eb Ab Bb Eb Cm Ab Bb Eb Go Ab Db Eb Ab Fm Bb7 Eb Fm C7 Fm Bb7 Eb7 Ab
+F7 Bb Gm Eb Cm F Bb F7 Bb Gm Eb Cm Ao F Bb F Ao7 Bb F7 Bb Bo7 E#o7 Ao7 Bo7 E#o7 Ao7 Bo7 Eb Bb7 Eb Ebm F F7 Bb D+ G7 Cm G Cm F7 Bb Eb F Bb Gm Eb F Bb Do Eb Ab Bb Eb Cm F7 Bb Cm G7 Cm F7 Bb7 Eb
+C7 F Dm Bb Gm C F C7 F Dm Bb Gm Eo C F C Eo7 F C7 F F#o7 B#o7 Eo7 F#o7 B#o7 Eo7 F#o7 Bb F7 Bb Bbm C C7 F A+ D7 Gm D Gm C7 F Bb C F Dm Bb C F Ao Bb Eb F Bb Gm C7 F Gm D7 Gm C7 F7 Bb
+D Gm D7 Gm D Bb Eb Bb7 Eb Bb Fm C7 Fm C Fm Eb Ab Eb7 Ab Eb Eb7 Ab Ab7 Db Ab Bbm7 Bb7 Eb Bb Bb7 Ebm F7 Bbm F7 Ao7 F%7 Bb7 Bo7 G7 Cm G7 Bo7 G%7 C7 C#o7 A%7 D7 F#o7 Go Go7 G7 G G7 C G G7 C Am G G7 C Dm7 G Go G G7 C
+A Dm A7 Dm A F Bb F7 Bb F Cm G7 Cm G Cm Bb Eb Bb7 Eb Bb Bb7 Eb Eb7 Ab Eb Fm7 F7 Bb F F7 Bbm C7 Fm C7 Eo7 C%7 F7 F#o7 D7 Gm D7 F#o7 D%7 G7 G#o7 E%7 A7 C#o7 Do Do7 D7 D D7 G D D7 G Em D D7 G Am7 D Do D D7 G
+E Am E7 Am E C F C7 F C Gm D7 Gm D Gm F Bb F7 Bb F F7 Bb Bb7 Eb Bb Cm7 C7 F C C7 Fm G7 Cm G7 Bo7 G%7 C7 C#o7 A7 Dm A7 C#o7 A%7 D7 D#o7 B%7 E7 G#o7 Ao Ao7 A7 A A7 D A A7 D Bm A A7 D Em7 A Ao A A7 D
+B Em B7 Em B G C G7 C G Dm A7 Dm A Dm C F C7 F C C7 F F7 Bb F Gm7 G7 C G G7 Cm D7 Gm D7 F#o7 D%7 G7 G#o7 E7 Am E7 G#o7 E%7 A7 A#o7 F#%7 B7 D#o7 Eo Eo7 E7 E E7 A E E7 A F#m E E7 A Bm7 E Eo E E7 A
+F# Bm F#7 Bm F# D G D7 G D Am E7 Am E Am G C G7 C G G7 C C7 F C Dm7 D7 G D D7 Gm A7 Dm A7 C#o7 A%7 D7 D#o7 B7 Em B7 D#o7 B%7 E7 E#o7 C#%7 F#7 A#o7 Bo Bo7 B7 B B7 E B B7 E C#m B B7 E F#m7 B Bo B B7 E
+C# F#m C#7 F#m C# A D A7 D A Em B7 Em B Em D G D7 G D D7 G G7 C G Am7 A7 D A A7 Dm E7 Am E7 G#o7 E%7 A7 A#o7 F#7 Bm F#7 A#o7 F#%7 B7 B#o7 G#%7 C#7 E#o7 F#o F#o7 F#7 F# F#7 B F# F#7 B G#m F# F#7 B C#m7 F# F#o F# F#7 B
+G# C#m G#7 C#m G# E A E7 A E Bm F#7 Bm F# Bm A D A7 D A A7 D D7 G D Em7 E7 A E E7 Am Cb7 Fbm Cb7 D#o7 B%7 E7 E#o7 C#7 F#m C#7 E#o7 C#%7 F#7 Go7 D#%7 G#7 B#o7 C#o C#o7 C#7 C# C#7 F# C# C#7 F# D#m C# C#7 F# G#m7 C# C#o C# C#7 F#
+Eb Abm Eb7 Abm Eb Cb Fb Cb7 Fb Cb Gbm Db7 Gbm Db Gbm E A E7 A E E7 A A7 D A Bm7 B7 E Cb Cb7 Fbm Gb7 Cbm Gb7 A#o7 Gb%7 Cb7 B#o7 Ab7 Dbm Ab7 B#o7 Ab%7 Db7 Do7 Bb%7 Eb7 Go7 G#o G#o7 Ab7 Ab Ab7 Db Ab Ab7 Db Bbm Ab Ab7 Db Ebm7 Ab G#o Ab Ab7 Db
+Bb Ebm Bb7 Ebm Bb Gb Cb Gb7 Cb Gb Dbm Ab7 Dbm Ab Dbm Cb Fb Cb7 Fb Cb Cb7 Fb E7 A Fb Gbm7 Gb7 Cb Gb Gb7 Cbm Bm Db7 Gbm Db7 E#o7 C#%7 F#7 Go7 Eb7 Abm Eb7 Go7 Eb%7 Ab7 Ao7 F%7 Bb7 Do7 D#o D#o7 Eb7 Eb Eb7 Ab Eb Eb7 Ab Fm Eb Eb7 Ab Bbm7 Eb D#o Eb Eb7 Ab
+F Bbm F7 Bbm F Db Gb Db7 Gb Db Abm Eb7 Abm Eb Abm Gb Cb Gb7 Cb Gb Gb7 Cb Cb7 Fb Cb Dbm7 Db7 Gb Db Db7 Gbm Ab7 Dbm Ab7 B#o7 Ab%7 Db7 Do7 Bb7 Ebm Bb7 Do7 Bb%7 Eb7 Eo7 C%7 F7 Ao7 A#o A#o7 Bb7 Bb Bb7 Eb Bb Bb7 Eb Cm Bb Bb7 Eb Fm7 Bb A#o Bb Bb7 Eb
+C Fm C7 Fm C Ab Db Ab7 Db Ab Ebm Bb7 Ebm Bb Ebm Db Gb Db7 Gb Db Db7 Gb F#7 B Gb Abm7 Ab7 Db Ab Ab7 Dbm Eb7 Abm Eb7 Go7 Eb%7 Ab7 Ao7 F7 Bbm F7 Ao7 F%7 Bb7 Bo7 G%7 C7 Eo7 E#o E#o7 F7 F F7 Bb F F7 Bb Gm F F7 Bb Cm7 F E#o F F7 Bb
+G Cm G7 Cm G Eb Ab Eb7 Ab Eb Bbm F7 Bbm F Bbm Ab Db Ab7 Db Ab Ab7 Db Db7 Gb Db Ebm7 Eb7 Ab Eb Eb7 Abm Bb7 Ebm Bb7 Do7 Bb%7 Eb7 Eo7 C7 Fm C7 Eo7 C%7 F7 F#o7 D%7 G7 Bo7 B#o B#o7 C7 C C7 F C C7 F Dm C C7 F Gm7 C B#o C C7 F
+F C#o Dm Am Bo Go G Am7 G C Dm G
+C G#o Am Em F#o Do D Em7 D G Am D
+G D#o Em Bm C#o Ao A Bm7 A D Em A
+D A#o Bm F#m G#o Eo E F#m7 E A Bm E
+A E#o F#m C#m D#o Bo B C#m7 B E F#m B
+E B#o C#m G#m A#o F#o F# G#m7 F# B C#m F#
+B Go G#m D#m Fo C#o C# D#m7 C# F# G#m C#
+Gb Do Ebm Bbm Co G#o Ab Bbm7 Ab Db Ebm Ab
+Db Ao Bbm Fm Go D#o Eb Fm7 Eb Ab Bbm Eb
+Ab Eo Fm Cm Do A#o Bb Cm7 Bb Eb Fm Bb
+Eb Bo Cm Gm Ao E#o F Gm7 F Bb Cm F
+Bb F#o Gm Dm Eo B#o C Dm7 C F Gm C
+G7 C Am F G7 C
+D7 G Em C D7 G
+A7 D Bm G A7 D
+E7 A F#m D E7 A
+B7 E C#m A B7 E
+F#7 B G#m E F#7 B
+Db7 Gb Ebm B Db7 Gb
+Ab7 Db Bbm Gb Ab7 Db
+Eb7 Ab Fm Db Eb7 Ab
+Bb7 Eb Cm Ab Bb7 Eb
+F7 Bb Gm Eb F7 Bb
+C7 F Dm Bb C7 F
+G E7 Am D D7 G
+D B7 Em A A7 D
+A F#7 Bm E E7 A
+E C#7 F#m B B7 E
+B G#7 C#m F# F#7 B
+F# D#7 G#m C# C#7 F#
+C# A#7 D#m G# G#7 C#
+Ab F7 Bbm Eb Eb7 Ab
+Eb C7 Fm Bb Bb7 Eb
+Bb G7 Cm F F7 Bb
+F D7 Gm C C7 F
+C A7 Dm G G7 C
+C F G7 C Eo F G7 Bo C G7 C F G C
+G C D7 G Bo C D7 F#o G D7 G C D G
+D G A7 D F#o G A7 C#o D A7 D G A D
+A D E7 A C#o D E7 G#o A E7 A D E A
+E A B7 E G#o A B7 D#o E B7 E A B E
+B E F#7 B D#o E F#7 A#o B F#7 B E F# B
+F# B C#7 F# A#o B C#7 Fo F# C#7 F# B C# F#
+Db Gb Ab7 Db Fo Gb Ab7 Co Db Ab7 Db Gb Ab Db
+Ab Db Eb7 Ab Co Db Eb7 Go Ab Eb7 Ab Db Eb Ab
+Eb Ab Bb7 Eb Go Ab Bb7 Do Eb Bb7 Eb Ab Bb Eb
+Bb Eb F7 Bb Do Eb F7 Ao Bb F7 Bb Eb F Bb
+F Bb C7 F Ao Bb C7 Eo F C7 F Bb C F
+E7 Am
+B7 Em
+F#7 Bm
+C#7 F#m
+G#7 C#m
+D#7 G#m
+Bb7 Ebm
+F7 Bbm
+C7 Fm
+G7 Cm
+D7 Gm
+A7 Dm
+Eo7 E Eo7 Eo E G#o7 Am F Dm7 E G#o7 Am Dm Dm7 E Am
+Bo7 B Bo7 Bo B D#o7 Em C Am7 B D#o7 Em Am Am7 B Em
+F#o7 F# F#o7 F#o F# A#o7 Bm G Em7 F# A#o7 Bm Em Em7 F# Bm
+C#o7 C# C#o7 C#o C# E#o7 F#m D Bm7 C# E#o7 F#m Bm Bm7 C# F#m
+G#o7 G# G#o7 G#o G# B#o7 C#m A F#m7 G# B#o7 C#m F#m F#m7 G# C#m
+D#o7 D# D#o7 D#o D# Go7 G#m E C#m7 D# Go7 G#m C#m C#m7 D# G#m
+A#o7 Bb A#o7 A#o Bb Do7 Ebm B Abm7 Bb Do7 Ebm Abm Abm7 Bb Ebm
+E#o7 F E#o7 E#o F Ao7 Bbm Gb Ebm7 F Ao7 Bbm Ebm Ebm7 F Bbm
+B#o7 C B#o7 B#o C Eo7 Fm Db Bbm7 C Eo7 Fm Bbm Bbm7 C Fm
+Go7 G Go7 Go G Bo7 Cm Ab Fm7 G Bo7 Cm Fm Fm7 G Cm
+Do7 D Do7 Do D F#o7 Gm Eb Cm7 D F#o7 Gm Cm Cm7 D Gm
+Ao7 A Ao7 Ao A C#o7 Dm Bb Gm7 A C#o7 Dm Gm Gm7 A Dm
+Em G#o7 Am G#o Am G#o7 Am G#o Am Eo7 F Eo F C7 F Bb C C7 F
+Bm D#o7 Em D#o Em D#o7 Em D#o Em Bo7 C Bo C G7 C F G G7 C
+F#m A#o7 Bm A#o Bm A#o7 Bm A#o Bm F#o7 G F#o G D7 G C D D7 G
+C#m E#o7 F#m E#o F#m E#o7 F#m E#o F#m C#o7 D C#o D A7 D G A A7 D
+G#m B#o7 C#m B#o C#m B#o7 C#m B#o C#m G#o7 A G#o A E7 A D E E7 A
+D#m Go7 G#m Go G#m Go7 G#m Go G#m D#o7 E D#o E B7 E A B B7 E
+A#m Do7 D#m Do D#m Do7 D#m Do D#m A#o7 B A#o B F#7 B E F# F#7 B
+Fm Ao7 Bbm Ao Bbm Ao7 Bbm Ao Bbm Fo7 Gb Fo Gb Db7 Gb B Db Db7 Gb
+Cm Eo7 Fm Eo Fm Eo7 Fm Eo Fm Co7 Db Co Db Ab7 Db Gb Ab Ab7 Db
+Gm Bo7 Cm Bo Cm Bo7 Cm Bo Cm Go7 Ab Go Ab Eb7 Ab Db Eb Eb7 Ab
+Dm F#o7 Gm F#o Gm F#o7 Gm F#o Gm Do7 Eb Do Eb Bb7 Eb Ab Bb Bb7 Eb
+Am C#o7 Dm C#o Dm C#o7 Dm C#o Dm Ao7 Bb Ao Bb F7 Bb Eb F F7 Bb
+C G Dm Am Bo7 C Dm G
+G D Am Em F#o7 G Am D
+D A Em Bm C#o7 D Em A
+A E Bm F#m G#o7 A Bm E
+E B F#m C#m D#o7 E F#m B
+B F# C#m G#m A#o7 B C#m F#
+F# C# G#m D#m Fo7 F# G#m C#
+Db Ab Ebm Bbm Co7 Db Ebm Ab
+Ab Eb Bbm Fm Go7 Ab Bbm Eb
+Eb Bb Fm Cm Do7 Eb Fm Bb
+Bb F Cm Gm Ao7 Bb Cm F
+F C Gm Dm Eo7 F Gm C
+Dm7 C
+Am7 G
+Em7 D
+Bm7 A
+F#m7 E
+C#m7 B
+G#m7 F#
+Ebm7 Db
+Bbm7 Ab
+Fm7 Eb
+Cm7 Bb
+Gm7 F
+Ab Do G7 Cm
+Eb Ao D7 Gm
+Bb Eo A7 Dm
+F Bo E7 Am
+C F#o B7 Em
+G C#o F#7 Bm
+D G#o C#7 F#m
+A Ebo Ab7 Dbm
+E Bbo Eb7 Abm
+B Fo Bb7 Ebm
+Gb Co F7 Bbm
+Db Go C7 Fm
+G G7 Am Dm G7 C
+D D7 Em Am D7 G
+A A7 Bm Em A7 D
+E E7 F#m Bm E7 A
+B B7 C#m F#m B7 E
+F# F#7 G#m C#m F#7 B
+C# C#7 D#m G#m C#7 F#
+Ab Ab7 Bbm Ebm Ab7 Db
+Eb Eb7 Fm Bbm Eb7 Ab
+Bb Bb7 Cm Fm Bb7 Eb
+F F7 Gm Cm F7 Bb
+C C7 Dm Gm C7 F
+G C Am D D7 G C Am D7 D G G7 C Dm7 F G7 C
+D G Em A A7 D G Em A7 A D D7 G Am7 C D7 G
+A D Bm E E7 A D Bm E7 E A A7 D Em7 G A7 D
+E A F#m B B7 E A F#m B7 B E E7 A Bm7 D E7 A
+B E C#m F# F#7 B E C#m F#7 F# B B7 E F#m7 A B7 E
+F# B G#m C# C#7 F# B G#m C#7 C# F# F#7 B C#m7 E F#7 B
+C# F# D#m G# G#7 C# F# D#m G#7 G# C# C#7 F# G#m7 B C#7 F#
+Ab Db Bbm Eb Eb7 Ab Db Bbm Eb7 Eb Ab Ab7 Db Ebm7 Gb Ab7 Db
+Eb Ab Fm Bb Bb7 Eb Ab Fm Bb7 Bb Eb Eb7 Ab Bbm7 Db Eb7 Ab
+Bb Eb Cm F F7 Bb Eb Cm F7 F Bb Bb7 Eb Fm7 Ab Bb7 Eb
+F Bb Gm C C7 F Bb Gm C7 C F F7 Bb Cm7 Eb F7 Bb
+C F Dm G G7 C F Dm G7 G C C7 F Gm7 Bb C7 F
+Am E7 Am E Am Bo7 B EIt6 B Em
+Em B7 Em B Em F#o7 F# BIt6 F# Bm
+Bm F#7 Bm F# Bm C#o7 C# F#It6 C# F#m
+F#m C#7 F#m C# F#m G#o7 G# C#It6 G# C#m
+C#m G#7 C#m G# C#m D#o7 D# G#It6 D# G#m
+G#m D#7 G#m D# G#m A#o7 A# D#It6 A# D#m
+Ebm Bb7 Ebm Bb Ebm E#o7 F BbIt6 F Bbm
+Bbm F7 Bbm F Bbm B#o7 C FIt6 C Fm
+Fm C7 Fm C Fm Go7 G CIt6 G Cm
+Cm G7 Cm G Cm Do7 D GIt6 D Gm
+Gm D7 Gm D Gm Ao7 A DIt6 A Dm
+Dm A7 Dm A Dm Eo7 E AIt6 E Am
+F Bb Eb7 Ab Do7 D D7 G
+C F Bb7 Eb Ao7 A A7 D
+G C F7 Bb Eo7 E E7 A
+D G C7 F Bo7 B B7 E
+A D G7 C F#o7 F# F#7 B
+E A D7 G C#o7 C# C#7 F#
+Cb Fb A7 D G#o7 G# G#7 C#
+Gb Cb E7 A D#o7 Eb Eb7 Ab
+Db Gb Cb7 Fb A#o7 Bb Bb7 Eb
+Ab Db Gb7 Cb E#o7 F F7 Bb
+Eb Ab Db7 Gb B#o7 C C7 F
+Bb Eb Ab7 Db Go7 G G7 C
+Bb Eb Bbo Cm F F7 Bb
+F Bb Fo Gm C C7 F
+C F Co Dm G G7 C
+G C Go Am D D7 G
+D G Do Em A A7 D
+A D Ao Bm E E7 A
+Fb A Eo Gbm Cb Cb7 Fb
+Cb Fb Bo Dbm Gb Gb7 Cb
+Gb B Gbo Abm Db Db7 Gb
+Db Gb Dbo Ebm Ab Ab7 Db
+Ab Db Abo Bbm Eb Eb7 Ab
+Eb Ab Ebo Fm Bb Bb7 Eb
+D7 G
+A7 D
+E7 A
+B7 E
+F#7 B
+C#7 F#
+G#7 C#
+Eb7 Ab
+Bb7 Eb
+F7 Bb
+C7 F
+G7 C
+Gm D7 Gm G Cm G7 Cm A%7 Bb Cm F7 F F7 Bb
+Dm A7 Dm D Gm D7 Gm E%7 F Gm C7 C C7 F
+Am E7 Am A Dm A7 Dm B%7 C Dm G7 G G7 C
+Em B7 Em E Am E7 Am F#%7 G Am D7 D D7 G
+Bm F#7 Bm B Em B7 Em C#%7 D Em A7 A A7 D
+F#m C#7 F#m F# Bm F#7 Bm G#%7 A Bm E7 E E7 A
+C#m G#7 C#m C# F#m C#7 F#m D#%7 Fb Gbm Cb7 Cb Cb7 Fb
+Abm Eb7 Abm Ab Dbm Ab7 Dbm Bb%7 Cb Dbm Gb7 Gb Gb7 Cb
+Ebm Bb7 Ebm Eb Abm Eb7 Abm F%7 Gb Abm Db7 Db Db7 Gb
+Bbm F7 Bbm Bb Ebm Bb7 Ebm C%7 Db Ebm Ab7 Ab Ab7 Db
+Fm C7 Fm F Bbm F7 Bbm G%7 Ab Bbm Eb7 Eb Eb7 Ab
+Cm G7 Cm C Fm C7 Fm D%7 Eb Fm Bb7 Bb Bb7 Eb
+G7 C G Am7 G D7 G7 C
+D7 G D Em7 D A7 D7 G
+A7 D A Bm7 A E7 A7 D
+E7 A E F#m7 E B7 E7 A
+B7 E B C#m7 B F#7 B7 E
+F#7 B F# G#m7 F# C#7 F#7 B
+C#7 F# C# D#m7 C# G#7 C#7 F#
+Ab7 Db Ab Bbm7 Ab Eb7 Ab7 Db
+Eb7 Ab Eb Fm7 Eb Bb7 Eb7 Ab
+Bb7 Eb Bb Cm7 Bb F7 Bb7 Eb
+F7 Bb F Gm7 F C7 F7 Bb
+C7 F C Dm7 C G7 C7 F
+C G7 C G G7 C Dm G%7 G
+G D7 G D D7 G Am D%7 D
+D A7 D A A7 D Em A%7 A
+A E7 A E E7 A Bm E%7 E
+E B7 E B B7 E F#m B%7 B
+B F#7 B F# F#7 B C#m F#%7 F#
+F# C#7 F# C# C#7 F# G#m C#%7 C#
+Db Ab7 Db Ab Ab7 Db Ebm G#%7 Ab
+Ab Eb7 Ab Eb Eb7 Ab Bbm D#%7 Eb
+Eb Bb7 Eb Bb Bb7 Eb Fm A#%7 Bb
+Bb F7 Bb F F7 Bb Cm E#%7 F
+F C7 F C C7 F Gm B#%7 C
+A E A E7 A E E7 A C# C#7 F#m B7 E7 A E7 A%7 E E7 A C#7 F#m B7 E Ao G#o A E7 A E E7 A E E7 A D D+ Bm F#7 Bm E Eo7 Ao7 A E7 A Bm7 Bm F#7 Bm A#o7 Bm C#7 Bm D Am B7 Eo7 E E7 A
+E B E B7 E B B7 E G# G#7 C#m F#7 B7 E B7 E%7 B B7 E G#7 C#m F#7 B Eo D#o E B7 E B B7 E B B7 E A A+ F#m C#7 F#m B Bo7 Eo7 E B7 E F#m7 F#m C#7 F#m E#o7 F#m G#7 F#m A Em F#7 Bo7 B B7 E
+B F# B F#7 B F# F#7 B D# D#7 G#m C#7 F#7 B F#7 B%7 F# F#7 B D#7 G#m C#7 F# Bo A#o B F#7 B F# F#7 B F# F#7 B E E+ C#m G#7 C#m F# F#o7 Bo7 B F#7 B C#m7 C#m G#7 C#m B#o7 C#m D#7 C#m E Bm C#7 F#o7 F# F#7 B
+F# C# F# C#7 F# C# C#7 F# A# A#7 D#m G#7 C#7 F# C#7 F#%7 C# C#7 F# A#7 D#m G#7 C# F#o Fo F# C#7 F# C# C#7 F# C# C#7 F# B B+ G#m D#7 G#m C# C#o7 F#o7 F# C#7 F# G#m7 G#m D#7 G#m Go7 G#m A#7 G#m B F#m G#7 C#o7 C# C#7 F#
+C# G# C# G#7 C# G# G#7 C# F F7 A#m D#7 G#7 C# G#7 C#%7 G# G#7 C# F7 A#m D#7 G# C#o Co C# G#7 C# G# G#7 C# G# G#7 C# F# F#+ D#m A#7 D#m G# G#o7 C#o7 C# G#7 C# D#m7 D#m A#7 D#m Do7 D#m F7 D#m F# C#m D#7 G#o7 G# G#7 C#
+G# D# G# D#7 G# D# D#7 G# C C7 Fm A#7 D#7 G# D#7 G#%7 D# D#7 G# C7 Fm A#7 D# G#o Go G# D#7 G# D# D#7 G# D# D#7 G# C# C#+ A#m F7 A#m D# D#o7 G#o7 G# D#7 G# A#m7 A#m F7 A#m Ao7 A#m C7 A#m C# G#m A#7 D#o7 D# D#7 G#
+Eb Bb Eb Bb7 Eb Bb Bb7 Eb G G7 Cm F7 Bb7 Eb Bb7 D#%7 Bb Bb7 Eb G7 Cm F7 Bb D#o Do Eb Bb7 Eb Bb Bb7 Eb Bb Bb7 Eb Ab Ab+ Fm C7 Fm Bb A#o7 D#o7 Eb Bb7 Eb Fm7 Fm C7 Fm Eo7 Fm G7 Fm Ab Ebm F7 A#o7 Bb Bb7 Eb
+Bb F Bb F7 Bb F F7 Bb D D7 Gm C7 F7 Bb F7 A#%7 F F7 Bb D7 Gm C7 F A#o Ao Bb F7 Bb F F7 Bb F F7 Bb Eb Eb+ Cm G7 Cm F E#o7 A#o7 Bb F7 Bb Cm7 Cm G7 Cm Bo7 Cm D7 Cm Eb Bbm C7 E#o7 F F7 Bb
+F C F C7 F C C7 F A A7 Dm G7 C7 F C7 E#%7 C C7 F A7 Dm G7 C E#o Eo F C7 F C C7 F C C7 F Bb Bb+ Gm D7 Gm C B#o7 E#o7 F C7 F Gm7 Gm D7 Gm F#o7 Gm A7 Gm Bb Fm G7 B#o7 C C7 F
+C G C G7 C G G7 C E E7 Am D7 G7 C G7 B#%7 G G7 C E7 Am D7 G B#o Bo C G7 C G G7 C G G7 C F F+ Dm A7 Dm G Go7 B#o7 C G7 C Dm7 Dm A7 Dm C#o7 Dm E7 Dm F Cm D7 Go7 G G7 C
+G D G D7 G D D7 G B B7 Em A7 D7 G D7 G%7 D D7 G B7 Em A7 D Go F#o G D7 G D D7 G D D7 G C C+ Am E7 Am D Do7 Go7 G D7 G Am7 Am E7 Am G#o7 Am B7 Am C Gm A7 Do7 D D7 G
+D A D A7 D A A7 D F# F#7 Bm E7 A7 D A7 D%7 A A7 D F#7 Bm E7 A Do C#o D A7 D A A7 D A A7 D G G+ Em B7 Em A Ao7 Do7 D A7 D Em7 Em B7 Em D#o7 Em F#7 Em G Dm E7 Ao7 A A7 D
+C Am Go D D7 Gm C F
+G Em Do A A7 Dm G C
+D Bm Ao E E7 Am D G
+A F#m Eo B B7 Em A D
+E C#m Bo F# F#7 Bm E A
+B G#m F#o C# C#7 F#m B E
+F# D#m C#o G# G#7 C#m F# B
+Db Bbm G#o Eb Eb7 Abm Db Gb
+Ab Fm D#o Bb Bb7 Ebm Ab Db
+Eb Cm A#o F F7 Bbm Eb Ab
+Bb Gm E#o C C7 Fm Bb Eb
+F Dm B#o G G7 Cm F Bb
+C G C C7 F G7 C C#o7 Dm G7 C G7 G C G7 C F Dm G G7 F Bo C G7 F Bo C G7 F Bo C G7 F Bo C
+G D G G7 C D7 G G#o7 Am D7 G D7 D G D7 G C Am D D7 C F#o G D7 C F#o G D7 C F#o G D7 C F#o G
+D A D D7 G A7 D D#o7 Em A7 D A7 A D A7 D G Em A A7 G C#o D A7 G C#o D A7 G C#o D A7 G C#o D
+A E A A7 D E7 A A#o7 Bm E7 A E7 E A E7 A D Bm E E7 D G#o A E7 D G#o A E7 D G#o A E7 D G#o A
+E B E E7 A B7 E E#o7 F#m B7 E B7 B E B7 E A F#m B B7 A D#o E B7 A D#o E B7 A D#o E B7 A D#o E
+B F# B B7 E F#7 B B#o7 C#m F#7 B F#7 F# B F#7 B E C#m F# F#7 E A#o B F#7 E A#o B F#7 E A#o B F#7 E A#o B
+F# C# F# F#7 B C#7 F# Go7 G#m C#7 F# C#7 C# F# C#7 F# B G#m C# C#7 B Fo F# C#7 B Fo F# C#7 B Fo F# C#7 B Fo F#
+Db Ab Db Db7 Gb Ab7 Db Do7 Ebm Ab7 Db Ab7 Ab Db Ab7 Db Gb Ebm Ab Ab7 Gb Co Db Ab7 Gb Co Db Ab7 Gb Co Db Ab7 Gb Co Db
+Ab Eb Ab Ab7 Db Eb7 Ab Ao7 Bbm Eb7 Ab Eb7 Eb Ab Eb7 Ab Db Bbm Eb Eb7 Db Go Ab Eb7 Db Go Ab Eb7 Db Go Ab Eb7 Db Go Ab
+Eb Bb Eb Eb7 Ab Bb7 Eb Eo7 Fm Bb7 Eb Bb7 Bb Eb Bb7 Eb Ab Fm Bb Bb7 Ab Do Eb Bb7 Ab Do Eb Bb7 Ab Do Eb Bb7 Ab Do Eb
+Bb F Bb Bb7 Eb F7 Bb Bo7 Cm F7 Bb F7 F Bb F7 Bb Eb Cm F F7 Eb Ao Bb F7 Eb Ao Bb F7 Eb Ao Bb F7 Eb Ao Bb
+F C F F7 Bb C7 F F#o7 Gm C7 F C7 C F C7 F Bb Gm C C7 Bb Eo F C7 Bb Eo F C7 Bb Eo F C7 Bb Eo F
+C G7 C G C F G7 C
+G D7 G D G C D7 G
+D A7 D A D G A7 D
+A E7 A E A D E7 A
+E B7 E B E A B7 E
+B F#7 B F# B E F#7 B
+F# C#7 F# C# F# B C#7 F#
+Db Ab7 Db Ab Db Gb Ab7 Db
+Ab Eb7 Ab Eb Ab Db Eb7 Ab
+Eb Bb7 Eb Bb Eb Ab Bb7 Eb
+Bb F7 Bb F Bb Eb F7 Bb
+F C7 F C F Bb C7 F
+C G7 C Am D D7 G
+G D7 G Em A A7 D
+D A7 D Bm E E7 A
+A E7 A F#m B B7 E
+E B7 E C#m F# F#7 B
+B F#7 B G#m C# C#7 F#
+F# C#7 F# D#m G# G#7 C#
+Db Ab7 Db Bbm Eb Eb7 Ab
+Ab Eb7 Ab Fm Bb Bb7 Eb
+Eb Bb7 Eb Cm F F7 Bb
+Bb F7 Bb Gm C C7 F
+F C7 F Dm G G7 C
+G C G7 C G D7 G
+D G D7 G D A7 D
+A D A7 D A E7 A
+E A E7 A E B7 E
+B E B7 E B F#7 B
+F# B F#7 B F# C#7 F#
+C# F# C#7 F# C# G#7 C#
+Ab Db Ab7 Db Ab Eb7 Ab
+Eb Ab Eb7 Ab Eb Bb7 Eb
+Bb Eb Bb7 Eb Bb F7 Bb
+F Bb F7 Bb F C7 F
+C F C7 F C G7 C
+F E%7 Bb C7 F
+C B%7 F G7 C
+G F#%7 C D7 G
+D C#%7 G A7 D
+A G#%7 D E7 A
+E D#%7 A B7 E
+B A#%7 E F#7 B
+Gb F%7 B Db7 Gb
+Db C%7 Gb Ab7 Db
+Ab G%7 Db Eb7 Ab
+Eb D%7 Ab Bb7 Eb
+Bb A%7 Eb F7 Bb
+Am E7 Am B%7 E E7 Am
+Em B7 Em F#%7 B B7 Em
+Bm F#7 Bm C#%7 F# F#7 Bm
+F#m C#7 F#m G#%7 C# C#7 F#m
+C#m G#7 C#m D#%7 G# G#7 C#m
+G#m D#7 G#m A#%7 D# D#7 G#m
+Ebm Bb7 Ebm F%7 Bb Bb7 Ebm
+Bbm F7 Bbm C%7 F F7 Bbm
+Fm C7 Fm G%7 C C7 Fm
+Cm G7 Cm D%7 G G7 Cm
+Gm D7 Gm A%7 D D7 Gm
+Dm A7 Dm E%7 A A7 Dm
+C7 E Bbo7 G7 Cm G
+G7 Cb Fo7 D7 Gm D
+D7 Gb Co7 A7 Dm A
+A7 Db Go7 E7 Am E
+E7 Ab Do7 B7 Em B
+B7 Eb Ao7 F#7 Bm F#
+F#7 Bb Eo7 C#7 F#m C#
+Db7 F Bo7 Ab7 Dbm Ab
+Ab7 C Gbo7 Eb7 Abm Eb
+Eb7 G Dbo7 Bb7 Ebm Bb
+Bb7 D Abo7 F7 Bbm F
+F7 A Ebo7 C7 Fm C
+Dm Bb A7 Dm G7 C7 C F7 Bb F Bb G7 C C7 F
+Am F E7 Am D7 G7 G C7 F C F D7 G G7 C
+Em C B7 Em A7 D7 D G7 C G C A7 D D7 G
+Bm G F#7 Bm E7 A7 A D7 G D G E7 A A7 D
+F#m D C#7 F#m B7 E7 E A7 D A D B7 E E7 A
+C#m A G#7 C#m F#7 B7 B E7 A E A F#7 B B7 E
+Abm E Eb7 Abm C#7 F#7 F# B7 E B E C#7 F# F#7 B
+Ebm B Bb7 Ebm Ab7 Db7 Db F#7 B Gb B Ab7 Db Db7 Gb
+Bbm Gb F7 Bbm Eb7 Ab7 Ab Db7 Gb Db Gb Eb7 Ab Ab7 Db
+Fm Db C7 Fm Bb7 Eb7 Eb Ab7 Db Ab Db Bb7 Eb Eb7 Ab
+Cm Ab G7 Cm F7 Bb7 Bb Eb7 Ab Eb Ab F7 Bb Bb7 Eb
+Gm Eb D7 Gm C7 F7 F Bb7 Eb Bb Eb C7 F F7 Bb
+C Am D#o7 Em B7 Em
+G Em A#o7 Bm F#7 Bm
+D Bm E#o7 F#m C#7 F#m
+A F#m B#o7 C#m G#7 C#m
+E C#m Go7 G#m D#7 G#m
+B G#m Do7 D#m A#7 D#m
+F# D#m Ao7 A#m F7 A#m
+Db Bbm Eo7 Fm C7 Fm
+Ab Fm Bo7 Cm G7 Cm
+Eb Cm F#o7 Gm D7 Gm
+Bb Gm C#o7 Dm A7 Dm
+F Dm G#o7 Am E7 Am
+Am E Am Bb E C Eo F Gm7 F Bb Gm7 C FFr6 C F C7 F Bb Gm Bb C C7 Co7 Dm Go7 Bbm C Go7 C C7 C C# F#m Gm F+ C7 Dm F+ C7 F F#o
+Em B Em F B G Bo C Dm7 C F Dm7 G CFr6 G C G7 C F Dm F G G7 Go7 Am Do7 Fm G Do7 G G7 G G# C#m Dm C+ G7 Am C+ G7 C C#o
+Bm F# Bm C F# D F#o G Am7 G C Am7 D GFr6 D G D7 G C Am C D D7 Do7 Em Ao7 Cm D Ao7 D D7 D D# G#m Am G+ D7 Em G+ D7 G G#o
+F#m C# F#m G C# A C#o D Em7 D G Em7 A DFr6 A D A7 D G Em G A A7 Ao7 Bm Eo7 Gm A Eo7 A A7 A A# D#m Em D+ A7 Bm D+ A7 D D#o
+C#m G# C#m D G# E G#o A Bm7 A D Bm7 E AFr6 E A E7 A D Bm D E E7 Eo7 F#m Bo7 Dm E Bo7 E E7 E F A#m Bm A+ E7 F#m A+ E7 A A#o
+G#m D# G#m A D# B D#o E F#m7 E A F#m7 B EFr6 B E B7 E A F#m A B B7 Bo7 C#m F#o7 Am B F#o7 B B7 B B# E#m F#m E+ B7 C#m E+ B7 E E#o
+Ebm Bb Ebm Fb Bb F# A#o B C#m7 B E C#m7 F# BFr6 F# B F#7 B E C#m E F# F#7 F#o7 G#m C#o7 Em F# C#o7 F# F#7 F# G B#m C#m B+ F#7 G#m B+ F#7 B B#o
+Bbm F Bbm Cb F Db Fo Gb Abm7 Gb B Abm7 Db GbFr6 Db Gb Db7 Gb B Abm B Db Db7 Dbo7 Ebm Abo7 Bm Db Abo7 Db Db7 Db D Gm Abm Gb+ Db7 Ebm Gb+ Db7 Gb Go
+Fm C Fm Gb C Ab Co Db Ebm7 Db Gb Ebm7 Ab DbFr6 Ab Db Ab7 Db Gb Ebm Gb Ab Ab7 Abo7 Bbm Ebo7 Gbm Ab Ebo7 Ab Ab7 Ab A Dm Ebm Db+ Ab7 Bbm Db+ Ab7 Db Do
+Cm G Cm Db G Eb Go Ab Bbm7 Ab Db Bbm7 Eb AbFr6 Eb Ab Eb7 Ab Db Bbm Db Eb Eb7 Ebo7 Fm Bbo7 Dbm Eb Bbo7 Eb Eb7 Eb E Am Bbm Ab+ Eb7 Fm Ab+ Eb7 Ab Ao
+Gm D Gm Ab D Bb Do Eb Fm7 Eb Ab Fm7 Bb EbFr6 Bb Eb Bb7 Eb Ab Fm Ab Bb Bb7 Bbo7 Cm Fo7 Abm Bb Fo7 Bb Bb7 Bb B Em Fm Eb+ Bb7 Cm Eb+ Bb7 Eb Eo
+Dm A Dm Eb A F Ao Bb Cm7 Bb Eb Cm7 F BbFr6 F Bb F7 Bb Eb Cm Eb F F7 Fo7 Gm Co7 Ebm F Co7 F F7 F F# Bm Cm Bb+ F7 Gm Bb+ F7 Bb Bo
+G+ C Bo C F C#o Dm Go G G7 C
+D+ G F#o G C G#o Am Do D D7 G
+A+ D C#o D G D#o Em Ao A A7 D
+E+ A G#o A D A#o Bm Eo E E7 A
+B+ E D#o E A E#o F#m Bo B B7 E
+F#+ B A#o B E B#o C#m F#o F# F#7 B
+C#+ F# Fo F# B Go G#m C#o C# C#7 F#
+Ab+ Db Co Db Gb Do Ebm G#o Ab Ab7 Db
+Eb+ Ab Go Ab Db Ao Bbm D#o Eb Eb7 Ab
+Bb+ Eb Do Eb Ab Eo Fm A#o Bb Bb7 Eb
+F+ Bb Ao Bb Eb Bo Cm E#o F F7 Bb
+C+ F Eo F Bb F#o Gm B#o C C7 F
+F F7 Bb C7 F F7 Bb C7 F Bb C F
+C C7 F G7 C C7 F G7 C F G C
+G G7 C D7 G G7 C D7 G C D G
+D D7 G A7 D D7 G A7 D G A D
+A A7 D E7 A A7 D E7 A D E A
+E E7 A B7 E E7 A B7 E A B E
+B B7 E F#7 B B7 E F#7 B E F# B
+Gb F#7 B Db7 Gb F#7 B Db7 Gb B Db Gb
+Db Db7 Gb Ab7 Db Db7 Gb Ab7 Db Gb Ab Db
+Ab Ab7 Db Eb7 Ab Ab7 Db Eb7 Ab Db Eb Ab
+Eb Eb7 Ab Bb7 Eb Eb7 Ab Bb7 Eb Ab Bb Eb
+Bb Bb7 Eb F7 Bb Bb7 Eb F7 Bb Eb F Bb
+Am G7 Dm G7 C G C#o Dm D G7 C G C
+Em D7 Am D7 G D G#o Am A D7 G D G
+Bm A7 Em A7 D A D#o Em E A7 D A D
+F#m E7 Bm E7 A E A#o Bm B E7 A E A
+C#m B7 F#m B7 E B E#o F#m F# B7 E B E
+G#m F#7 C#m F#7 B F# B#o C#m C# F#7 B F# B
+D#m C#7 G#m C#7 F# C# Go G#m G# C#7 F# C# F#
+Bbm Ab7 Ebm Ab7 Db Ab Do Ebm Eb Ab7 Db Ab Db
+Fm Eb7 Bbm Eb7 Ab Eb Ao Bbm Bb Eb7 Ab Eb Ab
+Cm Bb7 Fm Bb7 Eb Bb Eo Fm F Bb7 Eb Bb Eb
+Gm F7 Cm F7 Bb F Bo Cm C F7 Bb F Bb
+Dm C7 Gm C7 F C F#o Gm G C7 F C F
+Eb Bb Cm Eb Bb Eb Bo7 Cm F F7 Bb
+Bb F Gm Bb F Bb F#o7 Gm C C7 F
+F C Dm F C F C#o7 Dm G G7 C
+C G Am C G C G#o7 Am D D7 G
+G D Em G D G D#o7 Em A A7 D
+D A Bm D A D A#o7 Bm E E7 A
+A Fb Gbm A Fb A E#o7 Gbm Cb Cb7 Fb
+Fb Cb Dbm Fb Cb Fb B#o7 Dbm Gb Gb7 Cb
+B Gb Abm B Gb B Go7 Abm Db Db7 Gb
+Gb Db Ebm Gb Db Gb Do7 Ebm Ab Ab7 Db
+Db Ab Bbm Db Ab Db Ao7 Bbm Eb Eb7 Ab
+Ab Eb Fm Ab Eb Ab Eo7 Fm Bb Bb7 Eb
+G7 C F#o7 D G G7 C Dm7 F G7 Am Bo C Dm C C7 F Bo C G7 C Bo C Am F Bo C Am Go G C Bo C Am F Dm Bo C F G F Bo C G7 Bo C Am7 G D D7 Em G C G7 C F Dm G7 G G7 C
+D7 G C#o7 A D D7 G Am7 C D7 Em F#o G Am G G7 C F#o G D7 G F#o G Em C F#o G Em Do D G F#o G Em C Am F#o G C D C F#o G D7 F#o G Em7 D A A7 Bm D G D7 G C Am D7 D D7 G
+A7 D G#o7 E A A7 D Em7 G A7 Bm C#o D Em D D7 G C#o D A7 D C#o D Bm G C#o D Bm Ao A D C#o D Bm G Em C#o D G A G C#o D A7 C#o D Bm7 A E E7 F#m A D A7 D G Em A7 A A7 D
+E7 A D#o7 B E E7 A Bm7 D E7 F#m G#o A Bm A A7 D G#o A E7 A G#o A F#m D G#o A F#m Eo E A G#o A F#m D Bm G#o A D E D G#o A E7 G#o A F#m7 E B B7 C#m E A E7 A D Bm E7 E E7 A
+B7 E A#o7 F# B B7 E F#m7 A B7 C#m D#o E F#m E E7 A D#o E B7 E D#o E C#m A D#o E C#m Bo B E D#o E C#m A F#m D#o E A B A D#o E B7 D#o E C#m7 B F# F#7 G#m B E B7 E A F#m B7 B B7 E
+F#7 B Fo7 C# F# F#7 B C#m7 E F#7 G#m A#o B C#m B B7 E A#o B F#7 B A#o B G#m E A#o B G#m F#o F# B A#o B G#m E C#m A#o B E F# E A#o B F#7 A#o B G#m7 F# C# C#7 D#m F# B F#7 B E C#m F#7 F# F#7 B
+C#7 F# Co7 G# C# C#7 F# G#m7 B C#7 D#m Fo F# G#m F# F#7 B Fo F# C#7 F# Fo F# D#m B Fo F# D#m C#o C# F# Fo F# D#m B G#m Fo F# B C# B Fo F# C#7 Fo F# D#m7 C# G# G#7 A#m C# F# C#7 F# B G#m C#7 C# C#7 F#
+Ab7 Db Go7 Eb Ab Ab7 Db Ebm7 Gb Ab7 Bbm Co Db Ebm Db Db7 Gb Co Db Ab7 Db Co Db Bbm Gb Co Db Bbm G#o Ab Db Co Db Bbm Gb Ebm Co Db Gb Ab Gb Co Db Ab7 Co Db Bbm7 Ab Eb Eb7 Fm Ab Db Ab7 Db Gb Ebm Ab7 Ab Ab7 Db
+Eb7 Ab Do7 Bb Eb Eb7 Ab Bbm7 Db Eb7 Fm Go Ab Bbm Ab Ab7 Db Go Ab Eb7 Ab Go Ab Fm Db Go Ab Fm D#o Eb Ab Go Ab Fm Db Bbm Go Ab Db Eb Db Go Ab Eb7 Go Ab Fm7 Eb Bb Bb7 Cm Eb Ab Eb7 Ab Db Bbm Eb7 Eb Eb7 Ab
+Bb7 Eb Ao7 F Bb Bb7 Eb Fm7 Ab Bb7 Cm Do Eb Fm Eb Eb7 Ab Do Eb Bb7 Eb Do Eb Cm Ab Do Eb Cm A#o Bb Eb Do Eb Cm Ab Fm Do Eb Ab Bb Ab Do Eb Bb7 Do Eb Cm7 Bb F F7 Gm Bb Eb Bb7 Eb Ab Fm Bb7 Bb Bb7 Eb
+F7 Bb Eo7 C F F7 Bb Cm7 Eb F7 Gm Ao Bb Cm Bb Bb7 Eb Ao Bb F7 Bb Ao Bb Gm Eb Ao Bb Gm E#o F Bb Ao Bb Gm Eb Cm Ao Bb Eb F Eb Ao Bb F7 Ao Bb Gm7 F C C7 Dm F Bb F7 Bb Eb Cm F7 F F7 Bb
+C7 F Bo7 G C C7 F Gm7 Bb C7 Dm Eo F Gm F F7 Bb Eo F C7 F Eo F Dm Bb Eo F Dm B#o C F Eo F Dm Bb Gm Eo F Bb C Bb Eo F C7 Eo F Dm7 C G G7 Am C F C7 F Bb Gm C7 C C7 F
+C G7 C
+G D7 G
+D A7 D
+A E7 A
+E B7 E
+B F#7 B
+F# C#7 F#
+Db Ab7 Db
+Ab Eb7 Ab
+Eb Bb7 Eb
+Bb F7 Bb
+F C7 F
+C7 F A Dm Em Dm G C
+G7 C E Am Bm Am D G
+D7 G B Em F#m Em A D
+A7 D F# Bm C#m Bm E A
+E7 A C# F#m G#m F#m B E
+B7 E G# C#m D#m C#m F# B
+F#7 B D# G#m A#m G#m C# F#
+Db7 Gb Bb Ebm Fm Ebm Ab Db
+Ab7 Db F Bbm Cm Bbm Eb Ab
+Eb7 Ab C Fm Gm Fm Bb Eb
+Bb7 Eb G Cm Dm Cm F Bb
+F7 Bb D Gm Am Gm C F
+F#o7 Gm E#o7 F Eo F C7 F C
+C#o7 Dm B#o7 C Bo C G7 C G
+G#o7 Am Go7 G F#o G D7 G D
+D#o7 Em Do7 D C#o D A7 D A
+A#o7 Bm Ao7 A G#o A E7 A E
+E#o7 F#m Eo7 E D#o E B7 E B
+B#o7 C#m Bo7 B A#o B F#7 B F#
+Go7 Abm F#o7 Gb Fo Gb Db7 Gb Db
+Do7 Ebm C#o7 Db Co Db Ab7 Db Ab
+Ao7 Bbm G#o7 Ab Go Ab Eb7 Ab Eb
+Eo7 Fm D#o7 Eb Do Eb Bb7 Eb Bb
+Bo7 Cm A#o7 Bb Ao Bb F7 Bb F
