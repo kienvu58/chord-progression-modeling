@@ -130,7 +130,7 @@ def get_target_distribution(score, gold_token, vocab):
         )
         weight[index] = s
 
-    weight /= weight.sum()
+    # weight /= weight.sum()
     return weight
 
 
@@ -163,4 +163,6 @@ def generate_target(weight_set):
 
 if __name__ == "__main__":
     test_match_functions()
+    weight_set = [1, 1, 1, 1, 1, 1]
+    generate_target(weight_set)
 

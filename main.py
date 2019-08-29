@@ -51,11 +51,14 @@ logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 
 torch.manual_seed(1)
 
+if not os.path.isdir("logs/tmp"):
+    os.makedirs("logs/tmp")
+
 
 def run_experiment(use_similarity_targets, embedding_type, rnn_type, hparams):
     log = {}
-    log["name"] = "{} {} {}".format(
-        rnn_type, embedding_type, "similarity_target" if use_similarity_targets else "hard_target"
+    log["name"] = "{} {} {} {}".format(
+        rnn_type, embedding_type, "similarity_target" if use_similarity_targets else "hard_target", hparams["update_targets"]
     )
 
     vocab = Vocabulary().from_files(hparams["vocab_path"])
@@ -154,6 +157,7 @@ def run_experiment(use_similarity_targets, embedding_type, rnn_type, hparams):
     model_hparams = {
         "dropout": None,
         "similarity_targets": similarity_targets,
+        "update_targets": hparams["update_targets"],
         "T_initial": hparams["T_initial"],
         "decay_rate": hparams["decay_rate"],
         "batches_per_epoch": batches_per_epoch,
@@ -240,15 +244,19 @@ if __name__ == "__main__":
     if not os.path.isdir("data/vocabulary/"):
         generate_vocab()
 
-    similarity_target_list = ["20-3-3-3-1-3",
-                              "20-0-0-0-0-3", "20-3-3-3-1-0", None]
-    for st in similarity_target_list:
+    similarity_target_list = [("distance_2", False)]
+    for st, _ in similarity_target_list:
         if st is None:
             continue
         if not os.path.exists("data/targets/target_{}.th".format(st)):
-            weight_set = st.split("-")
-            weight_set = [int(w) for w in weight_set]
-            generate_target(weight_set)
+            if "-" in st:
+                weight_set = st.split("-")
+                weight_set = [int(w) for w in weight_set]
+                generate_target(weight_set)
+            else:
+                print("Target {} is not found!".format(st))
+                exit()
+
 
     T_initial_list = [0.05]
     decay_rate_list = [0.001]
@@ -259,7 +267,7 @@ if __name__ == "__main__":
         vocab_path = "data/vocabulary/"
         saved_model_path = "saved_models/"
         similarity_target_path = "data/targets/target_{}.th".format(
-            similarity_target)
+            similarity_target[0])
         hparams = {
             "lr": 0.001,
             "batch_size": 32,
@@ -275,6 +283,7 @@ if __name__ == "__main__":
             "cnn_encoder_num_filters": 16,
             "cnn_encoder_n_gram_filter_sizes": (2, 3, 4),
             "similarity_target_path": similarity_target_path,
+            "update_targets": similarity_target[1],
             "T_initial": T_initial,
             "decay_rate": decay_rate,
             "data_path": data_path,
