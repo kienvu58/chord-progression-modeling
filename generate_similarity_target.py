@@ -130,7 +130,7 @@ def get_target_distribution(score, gold_token, vocab):
         )
         weight[index] = s
 
-    # weight /= weight.sum()
+    weight /= weight.sum()
     return weight
 
 
@@ -151,7 +151,7 @@ def generate_target(weight_set):
     s = score.score
     torch.save(
         weight,
-        "data/targets/target_{}-{}-{}-{}-{}-{}.th".format(
+        "data/targets/target_{}_{}_{}_{}_{}_{}.th".format(
             s["token_name"],
             s["key_name"],
             s["key_number"],

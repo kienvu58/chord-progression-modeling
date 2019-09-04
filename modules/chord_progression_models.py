@@ -18,6 +18,11 @@ from allennlp.training.metrics.average import Average
 from allennlp.training.metrics.metric import Metric
 from allennlp.common.checks import ConfigurationError
 
+TM_ONE_HOT = "one_hot"
+TM_FIXED = "fixed_temperature"
+TM_DECREASED = "decreased_temperature"
+TM_NO = "no_temperature"
+
 
 class Cpm(Model):
     """
@@ -80,19 +85,22 @@ class Cpm(Model):
         self.hidden2chord = torch.nn.Sequential(
             torch.nn.Linear(self.forward_dim, hparams["fc_hidden_dim"]),
             torch.nn.ReLU(True),
-            torch.nn.Linear(hparams["fc_hidden_dim"], vocab.get_vocab_size())
+            torch.nn.Linear(hparams["fc_hidden_dim"], vocab.get_vocab_size()),
         )
         self.perplexity = Perplexity()
         self.accuracy = CategoricalAccuracy()
         self.real_loss = Average()
 
-        self.similarity_targets = hparams["similarity_targets"]
+        self.similarity_matrix = hparams["similarity_matrix"]
+        self.training_mode = hparams["training_mode"]
+
         self.T_initial = hparams["T_initial"]
+        self.T = self.T_initial
         self.decay_rate = hparams["decay_rate"]
+
         self.batches_per_epoch = hparams["batches_per_epoch"]
         self.epoch = 0
         self.batch_counter = 0
-        self.T = self.T_initial
 
     def num_layers(self) -> int:
         """
@@ -135,14 +143,24 @@ class Cpm(Model):
         )
         # transform targets into probability distributions using Embedding
         # then compute loss using torch.nn.functional.kl_div
-        if self.similarity_targets is not None and self.training:
-            target_distributions = self.similarity_targets(non_masked_targets)
-            target_distributions = torch.nn.functional.softmax(
-                target_distributions / self.T, dim=1
-            )
-            train_loss = torch.nn.functional.kl_div(
-                probs, target_distributions, reduction="sum"
-            )
+        if self.training:
+            if self.training_mode == TM_ONE_HOT:
+                train_loss = real_loss
+            elif self.training_mode == TM_NO:
+                target_distributions = self.similarity_matrix(non_masked_targets)
+                train_loss = torch.nn.functional.kl_div(
+                    probs, target_distributions, reduction="sum"
+                )
+            elif self.training_mode == TM_FIXED or self.training_mode == TM_DECREASED:
+                target_distributions = self.similarity_matrix(non_masked_targets)
+                target_distributions = torch.nn.functional.softmax(
+                    target_distributions / self.T, dim=1
+                )
+                train_loss = torch.nn.functional.kl_div(
+                    probs, target_distributions, reduction="sum"
+                )
+            else:
+                raise ValueError("Unknown training mode: {}".format(self.training_mode))
         else:
             train_loss = real_loss
         return train_loss, real_loss
@@ -180,9 +198,10 @@ class Cpm(Model):
         self.batch_counter += 1
         if self.batch_counter % self.batches_per_epoch == 0:
             self.epoch += 1
-            self.T *= 1 / (1 + self.decay_rate * self.epoch)
-            if self.T < 1e-20:
-                self.T = 1e-20
+            if self.training_mode == TM_DECREASED:
+                self.T *= 1 / (1 + self.decay_rate * self.epoch)
+                if self.T < 1e-20:
+                    self.T = 1e-20
 
         mask = get_text_field_mask(input_tokens)
 
