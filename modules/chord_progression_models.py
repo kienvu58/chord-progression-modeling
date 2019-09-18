@@ -87,7 +87,7 @@ class Cpm(Model):
             torch.nn.ReLU(True),
             torch.nn.Linear(hparams["fc_hidden_dim"], vocab.get_vocab_size()),
         )
-        self.perplexity = Perplexity()
+        self.perplexity = PerplexityCustom()
         self.accuracy = CategoricalAccuracy()
         self.real_loss = Average()
 
@@ -281,8 +281,8 @@ class Cpm(Model):
         }
 
 
-@Metric.register("perplexity")
-class Perplexity(Average):
+@Metric.register("perplexity_custom")
+class PerplexityCustom(Average):
     """
     Perplexity is a common metric used for evaluating how well a language model
     predicts a sample.
