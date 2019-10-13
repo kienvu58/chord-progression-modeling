@@ -34,7 +34,7 @@ logging.basicConfig(stream=sys.stderr, level=logging.INFO)
 torch.manual_seed(1)
 
 
-def get_default_hparams(fold=FOLD):
+def get_default_hparams():
     hparams = {
         "name": NAME,
         "lr": 0.001,
@@ -49,7 +49,7 @@ def get_default_hparams(fold=FOLD):
         "similarity_matrix_path": None,
         "T_initial": 0.05,
         "decay_rate": 0.001,
-        "data_path": "data/cv/{}/".format(fold),
+        "data_path": "data/cv/{}/".format(FOLD),
         "vocab_path": "data/vocabulary/",
         "saved_model_path": "saved_models/",
     }
@@ -248,7 +248,7 @@ def grid_search_weight_with_fixed_temperature(index, T_initial, decay_rate):
 
 def run_with_fixed_temperature(weight_set, T_initial, decay_rate):
     T_list = sample_temperature(10, 200, T_initial, decay_rate)
-    for T in itertools.product(T_list):
+    for T in T_list:
         hparams = update_hparams_for_fixed_temperature_training(T, weight_set)
         train_and_evaluate(hparams)
 
