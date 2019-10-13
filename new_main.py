@@ -10,6 +10,7 @@ import logging
 import sys
 import os
 import tinydb
+import sys
 
 from generate_similarity_target import generate_target
 
@@ -33,7 +34,7 @@ logging.basicConfig(stream=sys.stderr, level=logging.INFO)
 torch.manual_seed(1)
 
 
-def get_default_hparams():
+def get_default_hparams(fold=FOLD):
     hparams = {
         "name": NAME,
         "lr": 0.001,
@@ -48,7 +49,7 @@ def get_default_hparams():
         "similarity_matrix_path": None,
         "T_initial": 0.05,
         "decay_rate": 0.001,
-        "data_path": "data/cv/0/",
+        "data_path": "data/cv/{}/".format(fold),
         "vocab_path": "data/vocabulary/",
         "saved_model_path": "saved_models/",
     }
@@ -245,6 +246,13 @@ def grid_search_weight_with_fixed_temperature(index, T_initial, decay_rate):
         train_and_evaluate(hparams)
 
 
+def run_with_fixed_temperature(weight_set, T_initial, decay_rate):
+    T_list = sample_temperature(10, 200, T_initial, decay_rate)
+    for T in itertools.product(T_list):
+        hparams = update_hparams_for_fixed_temperature_training(T, weight_set)
+        train_and_evaluate(hparams)
+
+
 def grid_search_weight_with_decreased_temperature(T_initial, decay_rate):
     weight_list = [32, 16, 8, 4, 2, 1]
     index_list = [1, 2, 3, 4, 5]
@@ -294,6 +302,7 @@ def train_with_magical_weights():
 if __name__ == "__main__":
     GPU_NO = 0
     NAME = "T_initial=0.05, decay_rate=0.001"
+    FOLD = sys.argv[1]
 
     # grid_search_temperature_settings("1_1_1_1_1_1")
     T_initial = 0.05
@@ -306,4 +315,5 @@ if __name__ == "__main__":
     # grid_search_weight_with_decreased_temperature(T_initial, decay_rate)
     # train_with_one_hot()
     # train_with_magical_weights()
-    grid_search_temperature_settings("16_16_32_4_2_32")
+    run_with_fixed_temperature("1_1_1_1_1_1", T_initial, decay_rate)
+    grid_search_temperature_settings("16_32_16_4_4_32")
